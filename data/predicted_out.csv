@@ -1,0 +1,1001 @@
+Name,Risk,Return,Website,NCT,Condition
+1,0.99946633,191.3459215,https://clinicaltrials.gov/study/NCT00003184,NCT00003184,Breast Cancer
+2,0.99702468,158.6461807,https://clinicaltrials.gov/study/NCT01529684,NCT01529684,Advanced Solid Tumors|Pharmacokinetics of 14C-OSI-906
+3,0.997917745,163.4386264,https://clinicaltrials.gov/study/NCT00470184,NCT00470184,Esophageal Cancer
+4,0.994687686,154.9772283,https://clinicaltrials.gov/study/NCT00666484,NCT00666484,Lymphoma|Neurotoxicity
+5,0.998496338,171.6795977,https://clinicaltrials.gov/study/NCT03895684,NCT03895684,Advanced Solid Tumors
+6,0.996387994,156.202827,https://clinicaltrials.gov/study/NCT03707028,NCT03707028,Gastric Cancer|Gastroesophageal Junction Adenocarcinoma
+7,0.998373625,169.3692023,https://clinicaltrials.gov/study/NCT00711828,NCT00711828,Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue|Nodal Marginal Zone Lymphoma|Recurrent Grade 1 Follicular Lymphoma|Recurrent Grade 2 Follicular Lymphoma|Recurrent Mantle Cell Lymphoma|Recurrent Small Lymphocytic Lymphoma|Refractory Chronic Lymphocytic Leukemia|Splenic Marginal Zone Lymphoma|Waldenstrom Macroglobulinemia
+8,0.995428738,155.5833938,https://clinicaltrials.gov/study/NCT00533728,NCT00533728,Non-Hodgkin's Lymphoma
+9,0.99929479,186.8964871,https://clinicaltrials.gov/study/NCT00077428,NCT00077428,Recurrent Adenoid Cystic Carcinoma of the Oral Cavity|Recurrent Salivary Gland Cancer|Salivary Gland Adenoid Cystic Carcinoma|Stage III Adenoid Cystic Carcinoma of the Oral Cavity|Stage III Salivary Gland Cancer|Stage IV Adenoid Cystic Carcinoma of the Oral Cavity|Stage IV Salivary Gland Cancer
+10,0.98494803,138.3115636,https://clinicaltrials.gov/study/NCT00706628,NCT00706628,Prostatic Neoplasms
+11,0.989307552,151.1351091,https://clinicaltrials.gov/study/NCT00148928,NCT00148928,"Neoplasms, Prostate"
+12,0.989836246,150.4579097,https://clinicaltrials.gov/study/NCT00941928,NCT00941928,Leukemia|Pediatric Cancer
+13,0.998602754,181.2967258,https://clinicaltrials.gov/study/NCT00030628,NCT00030628,Metastatic Cancer
+14,0.779808749,7.734633003,https://clinicaltrials.gov/study/NCT00420628,NCT00420628,Chalazion|Hordeolum
+15,0.98793426,150.6808209,https://clinicaltrials.gov/study/NCT02980341,NCT02980341,Metastatic Breast Cancer
+16,0.984982699,128.0769135,https://clinicaltrials.gov/study/NCT01484041,NCT01484041,Breast Cancer
+17,0.983972998,119.4225022,https://clinicaltrials.gov/study/NCT01707823,NCT01707823,Adenocarcinoma of the Lung|Recurrent Non-small Cell Lung Cancer|Stage IA Non-small Cell Lung Cancer|Stage IB Non-small Cell Lung Cancer|Stage IIA Non-small Cell Lung Cancer|Stage IIB Non-small Cell Lung Cancer|Stage IIIA Non-small Cell Lung Cancer|Stage IIIB Non-small Cell Lung Cancer
+18,0.997681422,167.78386,https://clinicaltrials.gov/study/NCT03020823,NCT03020823,Head and Neck Neoplasms
+19,0.996370807,158.2951612,https://clinicaltrials.gov/study/NCT00718523,NCT00718523,Ovarian Neoplasms
+20,0.998624704,177.0584474,https://clinicaltrials.gov/study/NCT01668823,NCT01668823,Adenocarcinoma of the Lung|Large Cell Lung Cancer|Recurrent Non-small Cell Lung Cancer|Squamous Cell Lung Cancer|Stage 0 Non-small Cell Lung Cancer
+21,0.980656909,99.21531703,https://clinicaltrials.gov/study/NCT01939223,NCT01939223,Colorectal Neoplasms
+22,0.977856108,113.7335548,https://clinicaltrials.gov/study/NCT00003623,NCT00003623,Bladder Cancer
+23,0.817520159,10.66179102,https://clinicaltrials.gov/study/NCT00125684,NCT00125684,Cancer|Pain
+24,0.992443515,151.9864812,https://clinicaltrials.gov/study/NCT00817284,NCT00817284,Glioblastoma Multiforme
+25,0.99722331,158.9373337,https://clinicaltrials.gov/study/NCT01854684,NCT01854684,Recurrent Non-Small Cell Lung Carcinoma|Stage IIA Non-Small Cell Lung Carcinoma|Stage IIB Non-Small Cell Lung Carcinoma|Stage IIIA Non-Small Cell Lung Cancer|Stage IIIB Non-Small Cell Lung Cancer
+26,0.996128227,157.017528,https://clinicaltrials.gov/study/NCT03032484,NCT03032484,Astrocytoma
+27,0.994999768,154.7450788,https://clinicaltrials.gov/study/NCT01352884,NCT01352884,Cancer
+28,0.972505267,64.88097099,https://clinicaltrials.gov/study/NCT01228084,NCT01228084,Adenocarcinoma of the Prostate|Recurrent Prostate Cancer
+29,0.999705718,180.2100331,https://clinicaltrials.gov/study/NCT00068484,NCT00068484,"Unspecified Adult Solid Tumor, Protocol Specific"
+30,0.997965698,163.9306201,https://clinicaltrials.gov/study/NCT01169584,NCT01169584,Neuroblastoma|Rhabdomyosarcoma|Lymphoma|Wilm's Tumor|Ewing's Sarcoma
+31,0.989970564,150.8053112,https://clinicaltrials.gov/study/NCT01542684,NCT01542684,Leukemia
+32,0.995380499,158.6196712,https://clinicaltrials.gov/study/NCT02820584,NCT02820584,de Novo Glioblastoma
+33,0.97774698,102.8700071,https://clinicaltrials.gov/study/NCT00983684,NCT00983684,Invasive Breast Cancer|Breast Cancer
+34,0.990135825,150.4197465,https://clinicaltrials.gov/study/NCT02229084,NCT02229084,Breast Cancer|Breast Neoplasms
+35,0.964222452,50.83003545,https://clinicaltrials.gov/study/NCT01668784,NCT01668784,Advanced or Metastatic (Medically or Surgically Unresectable) Clear-cell Renal Cell Carcinoma
+36,0.986531621,94.17530599,https://clinicaltrials.gov/study/NCT00570284,NCT00570284,Cancer
+37,0.970379805,83.5703479,https://clinicaltrials.gov/study/NCT02093728,NCT02093728,Solid Tumours
+38,0.995917147,156.9467878,https://clinicaltrials.gov/study/NCT03366428,NCT03366428,Malignant Neoplasm of Breast
+39,0.999388724,185.2907843,https://clinicaltrials.gov/study/NCT00095628,NCT00095628,Metastatic Squamous Neck Cancer With Occult Primary Squamous Cell Carcinoma|Recurrent Metastatic Squamous Neck Cancer With Occult Primary|Recurrent Salivary Gland Cancer|Recurrent Squamous Cell Carcinoma of the Hypopharynx|Recurrent Squamous Cell Carcinoma of the Larynx|Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity|Recurrent Squamous Cell Carcinoma of the Oropharynx|Recurrent Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity|Recurrent Verrucous Carcinoma of the Larynx|Recurrent Verrucous Carcinoma of the Oral Cavity|Stage IV Squamous Cell Carcinoma of the Hypopharynx|Stage IV Squamous Cell Carcinoma of the Larynx|Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity|Stage IV Squamous Cell Carcinoma of the Oropharynx|Stage IV Verrucous Carcinoma of the Larynx|Stage IV Verrucous Carcinoma of the Oral Cavity|Stage IVA Salivary Gland Cancer|Stage IVA Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity|Stage IVB Salivary Gland Cancer|Stage IVB Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity|Stage IVC Salivary Gland Cancer|Stage IVC Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity
+40,0.997277089,163.9228859,https://clinicaltrials.gov/study/NCT00004228,NCT00004228,Lymphoma
+41,0.581434127,4.539342806,https://clinicaltrials.gov/study/NCT02256228,NCT02256228,Pain
+42,0.901362732,19.05832563,https://clinicaltrials.gov/study/NCT00993928,NCT00993928,Cancer Survivor|Fatigue|Psychosocial Effects of Cancer and Its Treatment|Sleep Disorders
+43,0.976860385,90.21916199,https://clinicaltrials.gov/study/NCT01562028,NCT01562028,Lung Cancer
+44,0.998500288,173.6149,https://clinicaltrials.gov/study/NCT01617928,NCT01617928,Solid Tumors
+45,0.995592384,155.7393197,https://clinicaltrials.gov/study/NCT02046928,NCT02046928,Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma|CLL|SLL
+46,0.966341014,65.11046094,https://clinicaltrials.gov/study/NCT00186628,NCT00186628,"Leukemia, Mast-Cell|Mantle-cell Lymphoma"
+47,0.928152559,28.98050671,https://clinicaltrials.gov/study/NCT05694728,NCT05694728,Human Papilloma Virus Infection
+48,0.995534661,156.3995138,https://clinicaltrials.gov/study/NCT00338728,NCT00338728,Anatomic Stage IV Breast Cancer AJCC v8|Estrogen Receptor Positive|KIT Positive|PDGFR Positive|Postmenopausal|Progesterone Receptor Positive|Prognostic Stage IV Breast Cancer AJCC v8
+49,0.993985749,154.2081235,https://clinicaltrials.gov/study/NCT00269828,NCT00269828,NSCLC
+50,0.993953154,152.9429851,https://clinicaltrials.gov/study/NCT00003928,NCT00003928,Kidney Cancer
+51,0.996991415,159.7156159,https://clinicaltrials.gov/study/NCT00496223,NCT00496223,Melanoma
+52,0.990136246,150.7374426,https://clinicaltrials.gov/study/NCT00848523,NCT00848523,Recurrent Malignant Gliomas
+53,0.958021845,40.3206049,https://clinicaltrials.gov/study/NCT00540384,NCT00540384,Anemia|Solid Tumors
+54,0.996712656,159.4446434,https://clinicaltrials.gov/study/NCT00258284,NCT00258284,Prostate Cancer
+55,0.997965824,166.7231346,https://clinicaltrials.gov/study/NCT01112384,NCT01112384,Metastatic Sarcoma
+56,0.736252988,7.646786237,https://clinicaltrials.gov/study/NCT03792984,NCT03792984,Polycystic Ovary Syndrome|Vitamin D Deficiency/Insufficiency
+57,0.919275378,19.92330818,https://clinicaltrials.gov/study/NCT02036684,NCT02036684,Prostate Cancer Patients Undergoing Radical Prostatectomy
+58,0.996421894,161.6720656,https://clinicaltrials.gov/study/NCT02511184,NCT02511184,ALK-positive Advanced NSCLC
+59,0.96750214,53.13052316,https://clinicaltrials.gov/study/NCT02257684,NCT02257684,Acute Lymphoblastic Leukemia|Lymphoblastic Lymphoma
+60,0.989577019,150.7218653,https://clinicaltrials.gov/study/NCT00338884,NCT00338884,"Carcinoma, Renal Cell"
+61,0.972519631,69.12379458,https://clinicaltrials.gov/study/NCT00934128,NCT00934128,Advanced Cancers
+62,0.997540104,163.5944203,https://clinicaltrials.gov/study/NCT02171728,NCT02171728,Neoplasms
+63,0.9211943,24.75423047,https://clinicaltrials.gov/study/NCT02340728,NCT02340728,Pancreatic Cancer|Unresectable Biliary-pancreatic Malignancies
+64,0.997258303,161.3155312,https://clinicaltrials.gov/study/NCT00054028,NCT00054028,Recurrent Breast Cancer|Stage IIIB Breast Cancer|Stage IV Breast Cancer
+65,0.998521818,168.1856202,https://clinicaltrials.gov/study/NCT00109928,NCT00109928,Lymphoma
+66,0.996324016,158.4695243,https://clinicaltrials.gov/study/NCT01819428,NCT01819428,Adenocarcinoma of Lung Stage IIIB|Adenocarcinoma of Lung Stage IV
+67,0.997476559,162.9311537,https://clinicaltrials.gov/study/NCT01632228,NCT01632228,Glioblastoma
+68,0.996399961,158.6247773,https://clinicaltrials.gov/study/NCT01264328,NCT01264328,Head and Neck Cancer
+69,0.999307441,188.5216681,https://clinicaltrials.gov/study/NCT00003328,NCT00003328,Head and Neck Cancer
+70,0.952390745,45.42578461,https://clinicaltrials.gov/study/NCT01724528,NCT01724528,Tumor Lysis Syndrome
+71,0.986910298,145.4068375,https://clinicaltrials.gov/study/NCT02348528,NCT02348528,Multiple Myeloma
+72,0.99649888,157.5533372,https://clinicaltrials.gov/study/NCT03045328,NCT03045328,Recurrent Chronic Lymphocytic Leukemia|Recurrent Small Lymphocytic Lymphoma|Refractory Chronic Lymphocytic Leukemia|Refractory Small Lymphocytic Lymphoma
+73,0.919287179,27.28739732,https://clinicaltrials.gov/study/NCT01901328,NCT01901328,Opioid-Induced Constipation
+74,0.989161057,150.4064965,https://clinicaltrials.gov/study/NCT01227928,NCT01227928,"Neoplasms, Ovarian"
+75,0.992603154,151.7447295,https://clinicaltrials.gov/study/NCT03392428,NCT03392428,Cancer of the Prostate|Metastatic Cancer
+76,0.996272967,156.8921492,https://clinicaltrials.gov/study/NCT00086528,NCT00086528,Cancer
+77,0.998628853,177.0003983,https://clinicaltrials.gov/study/NCT00675428,NCT00675428,Multiple Myeloma
+78,0.999514455,186.2087197,https://clinicaltrials.gov/study/NCT00288028,NCT00288028,Multiple Myeloma and Plasma Cell Neoplasm
+79,0.999403932,187.9604502,https://clinicaltrials.gov/study/NCT00669578,NCT00669578,Chronic Myeloproliferative Disorders|Secondary Myelofibrosis
+80,0.989702399,150.6059937,https://clinicaltrials.gov/study/NCT03712358,NCT03712358,Melanoma
+81,0.98593058,150.1635476,https://clinicaltrials.gov/study/NCT02697058,NCT02697058,Metastatic Pancreatic Cancer
+82,0.9994674,192.5242978,https://clinicaltrials.gov/study/NCT00416858,NCT00416858,Esophageal Cancer
+83,0.996693266,162.1422507,https://clinicaltrials.gov/study/NCT00462358,NCT00462358,Advanced Solid Tumors
+84,0.993807573,153.8649752,https://clinicaltrials.gov/study/NCT05622058,NCT05622058,Prevention of Chemotherapy-induced Myelosuppression
+85,0.991039188,151.7765284,https://clinicaltrials.gov/study/NCT05204758,NCT05204758,Advanced Lung Adenocarcinoma
+86,0.995734452,156.6290379,https://clinicaltrials.gov/study/NCT02069158,NCT02069158,Breast Cancer|NSCLC|Ovary Cancer|Endometrial Cancer|Small Cell Lung Cancer (SCLC)|Head and Neck (HNSCC)
+87,0.812396646,8.702396714,https://clinicaltrials.gov/study/NCT03885258,NCT03885258,Pineal Tumor
+88,0.998250432,171.3000189,https://clinicaltrials.gov/study/NCT00003958,NCT00003958,Adult Malignant Mesenchymoma|Adult Rhabdomyosarcoma|Alveolar Childhood Rhabdomyosarcoma|Childhood Malignant Mesenchymoma|Embryonal Childhood Rhabdomyosarcoma|Embryonal-botryoid Childhood Rhabdomyosarcoma|Nonmetastatic Childhood Soft Tissue Sarcoma|Previously Untreated Childhood Rhabdomyosarcoma|Stage I Adult Soft Tissue Sarcoma|Stage II Adult Soft Tissue Sarcoma|Stage III Adult Soft Tissue Sarcoma
+89,0.998536148,173.8008259,https://clinicaltrials.gov/study/NCT00936858,NCT00936858,Thyroid Cancer
+90,0.966182939,59.59305233,https://clinicaltrials.gov/study/NCT02305758,NCT02305758,Untreated Metastatic Colorectal Cancer
+91,0.89767227,17.38813779,https://clinicaltrials.gov/study/NCT05900258,NCT05900258,Actinic Keratosis
+92,0.993007148,152.4814413,https://clinicaltrials.gov/study/NCT00822458,NCT00822458,Recurrent Childhood Medulloblastoma
+93,0.960373013,49.27781075,https://clinicaltrials.gov/study/NCT00171158,NCT00171158,Philadelphia Chromosome Positive CML
+94,0.967171342,54.78619213,https://clinicaltrials.gov/study/NCT00632723,NCT00632723,Breast Cancer
+95,0.974069187,82.57657449,https://clinicaltrials.gov/study/NCT02420223,NCT02420223,Multiple Myeloma
+96,0.996836111,159.6647886,https://clinicaltrials.gov/study/NCT00323323,NCT00323323,Non-Hodgkin's Lymphoma
+97,0.687658198,5.32205053,https://clinicaltrials.gov/study/NCT04297423,NCT04297423,Colorectal Cancer
+98,0.995766663,156.9239116,https://clinicaltrials.gov/study/NCT01776723,NCT01776723,Myelomonocytic Leukemia
+99,0.998102932,170.4776003,https://clinicaltrials.gov/study/NCT01026623,NCT01026623,Hormone-Resistant Prostate Cancer|Prostate Adenocarcinoma|Recurrent Prostate Carcinoma|Stage IV Prostate Cancer
+100,0.998107841,167.044172,https://clinicaltrials.gov/study/NCT02608684,NCT02608684,Ovarian Cancer
+101,0.971758693,78.30640918,https://clinicaltrials.gov/study/NCT00327223,NCT00327223,Neoplasm Metastasis
+102,0.997335229,164.784073,https://clinicaltrials.gov/study/NCT00005884,NCT00005884,Non-melanomatous Skin Cancer
+103,0.997145994,162.5984108,https://clinicaltrials.gov/study/NCT00779584,NCT00779584,"Hodgkin Disease|Lymphoma, Non-Hodgkin|Neoplasms"
+104,0.988426776,147.4312682,https://clinicaltrials.gov/study/NCT02921984,NCT02921984,Salivary Gland Tumors|Head and Neck Cancer
+105,0.999080356,185.807902,https://clinicaltrials.gov/study/NCT01390584,NCT01390584,Lymphoma
+106,0.965929598,45.72063542,https://clinicaltrials.gov/study/NCT03172884,NCT03172884,"Hepatic Insufficiency, Renal Insufficiency"
+107,0.984582643,116.4688023,https://clinicaltrials.gov/study/NCT01461928,NCT01461928,Non-Hodgkin's Lymphoma
+108,0.887742024,17.604876,https://clinicaltrials.gov/study/NCT00272428,NCT00272428,Healthy
+109,0.998600009,176.9552565,https://clinicaltrials.gov/study/NCT00275028,NCT00275028,Fallopian Tube Cancer|Primary Peritoneal Serous Adenocarcinoma|Recurrent Ovarian Epithelial Cancer|Stage I Ovarian Epithelial Cancer|Stage II Ovarian Epithelial Cancer
+110,0.999417736,183.2018472,https://clinicaltrials.gov/study/NCT04156828,NCT04156828,Grade 3b Follicular Lymphoma|Recurrent Diffuse Large B-Cell Lymphoma|Recurrent Follicular Lymphoma|Refractory Diffuse Large B-Cell Lymphoma|Non-Hodgkin's Lymphoma
+111,0.980923412,90.7516442,https://clinicaltrials.gov/study/NCT00667628,NCT00667628,Advanced Hepatocellular Carcinoma
+112,0.981423573,86.82911689,https://clinicaltrials.gov/study/NCT00841828,NCT00841828,Breast Cancer
+113,0.963553196,54.87836454,https://clinicaltrials.gov/study/NCT03239223,NCT03239223,HSIL|HSIL of Cervix|High-Grade Squamous Intraepithelial Lesions|High-grade Cervical Intraepithelial Neoplasia|Human Papilloma Virus|Cervical Cancer|Cervical Intraepithelial Neoplasia|Cervical Neoplasm|Cervical Dysplasia|CIN
+114,0.99596303,156.2184468,https://clinicaltrials.gov/study/NCT00955084,NCT00955084,Advanced Malignancies
+115,0.958449321,53.25910004,https://clinicaltrials.gov/study/NCT01697384,NCT01697384,Prostate Cancer|Adenocarcinoma of the Prostate
+116,0.98949568,150.1145937,https://clinicaltrials.gov/study/NCT01073384,NCT01073384,Enteritis
+117,0.911061261,21.27897793,https://clinicaltrials.gov/study/NCT00415584,NCT00415584,Secondary Hyperparathyroidism|Hypercalcemia
+118,0.997689098,165.2307697,https://clinicaltrials.gov/study/NCT01183884,NCT01183884,Neuroblastoma
+119,0.998251969,169.6114329,https://clinicaltrials.gov/study/NCT00550784,NCT00550784,Fallopian Tube Cancer|Ovarian Cancer|Peritoneal Cavity Cancer
+120,0.985428159,135.7262165,https://clinicaltrials.gov/study/NCT01672684,NCT01672684,Depression|Post-traumatic Stress Disorder|Recurrent Breast Cancer|Stage IA Breast Cancer|Stage IB Breast Cancer|Stage II Breast Cancer|Stage IIIA Breast Cancer|Stage IIIB Breast Cancer|Stage IIIC Breast Cancer|Stage IV Breast Cancer
+121,0.973695429,65.78659573,https://clinicaltrials.gov/study/NCT01094184,NCT01094184,Breast Cancer
+122,0.981977795,112.1001844,https://clinicaltrials.gov/study/NCT02851784,NCT02851784,Hepatocellular Carcinoma
+123,0.980003717,91.98256854,https://clinicaltrials.gov/study/NCT02572284,NCT02572284,Prostate Cancer
+124,0.749346056,5.30806567,https://clinicaltrials.gov/study/NCT02526784,NCT02526784,Prostate Cancer
+125,0.999147498,183.8901198,https://clinicaltrials.gov/study/NCT01251484,NCT01251484,Recurrent Glioblastoma
+126,0.636216973,4.920715882,https://clinicaltrials.gov/study/NCT00484484,NCT00484484,Pain
+127,0.993611246,153.4530274,https://clinicaltrials.gov/study/NCT02326584,NCT02326584,Acute Myeloid Leukemia|Acute Myelogenous Leukemia
+128,0.999276283,179.7555384,https://clinicaltrials.gov/study/NCT00060684,NCT00060684,"Lymphoma, Low-Grade|Lymphoma, Small Lymphocytic|Lymphoma, Mixed-Cell, Follicular|Lymphoma, Small Cleaved-Cell, Follicular"
+129,0.9989415,189.6659532,https://clinicaltrials.gov/study/NCT01100528,NCT01100528,"Ciliary Body and Choroid Melanoma, Medium/Large Size|Ciliary Body and Choroid Melanoma, Small Size|Iris Melanoma|Recurrent Intraocular Melanoma"
+130,0.998653149,179.3891099,https://clinicaltrials.gov/study/NCT00132028,NCT00132028,Adult Favorable Prognosis Hodgkin Lymphoma|Adult Lymphocyte Depletion Hodgkin Lymphoma|Adult Lymphocyte Predominant Hodgkin Lymphoma|Adult Mixed Cellularity Hodgkin Lymphoma|Adult Nodular Lymphocyte Predominant Hodgkin Lymphoma|Adult Nodular Sclerosis Hodgkin Lymphoma|Adult Unfavorable Prognosis Hodgkin Lymphoma|Recurrent Adult Hodgkin Lymphoma
+131,0.993907929,153.4788795,https://clinicaltrials.gov/study/NCT00542828,NCT00542828,Myelodysplastic Syndrome (MDS)
+132,0.678757471,4.69061647,https://clinicaltrials.gov/study/NCT03293628,NCT03293628,Cervical Intraepithelial Neoplasia|Cervix Neoplasm
+133,0.998505,175.4880699,https://clinicaltrials.gov/study/NCT00003528,NCT00003528,Recurrent Childhood Acute Lymphoblastic Leukemia|Recurrent Childhood Acute Myeloid Leukemia
+134,0.996149496,156.6480062,https://clinicaltrials.gov/study/NCT01815528,NCT01815528,Recurrent Epithelial Ovarian Cancer
+135,0.991691651,150.8066671,https://clinicaltrials.gov/study/NCT01734928,NCT01734928,Multiple Myeloma
+136,0.900150037,22.31317787,https://clinicaltrials.gov/study/NCT00438828,NCT00438828,Cancer
+137,0.989332505,151.2931587,https://clinicaltrials.gov/study/NCT01428128,NCT01428128,Cancer Other Than Leukemia
+138,0.998226024,166.4499616,https://clinicaltrials.gov/study/NCT01675128,NCT01675128,Colorectal Neoplasms|Colorectal Carcinoma|Colorectal Tumors
+139,0.999326464,184.0981503,https://clinicaltrials.gov/study/NCT01546428,NCT01546428,Advanced Solid Tumor
+140,0.996103227,157.5623323,https://clinicaltrials.gov/study/NCT00002828,NCT00002828,Colorectal Cancer
+141,0.995747655,158.0656988,https://clinicaltrials.gov/study/NCT03614728,NCT03614728,Neoplasms
+142,0.988239973,150.112545,https://clinicaltrials.gov/study/NCT05319028,NCT05319028,Non-GCB/ABC Diffuse Large B-Cell Lymphoma|With and Without MyD88 and/or CD79B Mutations
+143,0.998640747,177.614942,https://clinicaltrials.gov/study/NCT05270928,NCT05270928,Relapsed/Refractory Multiple Myeloma
+144,0.998400515,174.4712685,https://clinicaltrials.gov/study/NCT00837928,NCT00837928,"Metastatic Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+145,0.993148391,151.9314842,https://clinicaltrials.gov/study/NCT00983528,NCT00983528,Acute Lymphoblastic Leukemia
+146,0.982148591,113.1981818,https://clinicaltrials.gov/study/NCT04237584,NCT04237584,Metastatic Castration-resistant Prostate Cancer
+147,0.993591342,152.916111,https://clinicaltrials.gov/study/NCT01610284,NCT01610284,Breast Cancer
+148,0.972123451,69.32409334,https://clinicaltrials.gov/study/NCT01270984,NCT01270984,Chronic Myeloid Leukemia|Gastrointestinal Stromal Tumors
+149,0.9873113,150.1508083,https://clinicaltrials.gov/study/NCT00594984,NCT00594984,Metastatic Colorectal Cancer (MCRC)
+150,0.990614001,151.9760622,https://clinicaltrials.gov/study/NCT01705184,NCT01705184,Non-small Cell Lung Cancer Metastatic|Nonsquamous Nonsmall Cell Neoplasm of Lung
+151,0.998988038,183.6826699,https://clinicaltrials.gov/study/NCT01402284,NCT01402284,Multiple Myeloma
+152,0.995484978,155.6090562,https://clinicaltrials.gov/study/NCT00589784,NCT00589784,CNS Cancer|Meningioma|Intracranial Hemangiopericytoma|Hemangioblastoma|Neurofibromatosis
+153,0.997874153,166.2705257,https://clinicaltrials.gov/study/NCT01291784,NCT01291784,"Myelofibrosis|Primary Myelofibrosis|Polycythemia Vera, Post-Polycythemic Myelofibrosis Phase|Post-essential Thrombocythemia Related Myelofibrosis"
+154,0.984601859,126.6626366,https://clinicaltrials.gov/study/NCT00295984,NCT00295984,Sarcoma
+155,0.987545965,147.0326474,https://clinicaltrials.gov/study/NCT01147484,NCT01147484,Recurrent Breast Cancer
+156,0.999312775,190.0252667,https://clinicaltrials.gov/study/NCT03991884,NCT03991884,Recurrent B Acute Lymphoblastic Leukemia|Recurrent B Lymphoblastic Lymphoma|Refractory B Acute Lymphoblastic Leukemia|Refractory B Lymphoblastic Lymphoma
+157,0.96451615,56.1929478,https://clinicaltrials.gov/study/NCT01978184,NCT01978184,Pancreatic Cancer
+158,0.991113909,151.8142208,https://clinicaltrials.gov/study/NCT00869284,NCT00869284,Lymphoma
+159,0.988789391,150.8461773,https://clinicaltrials.gov/study/NCT00263484,NCT00263484,Multiple Myeloma
+160,0.99281411,153.1938912,https://clinicaltrials.gov/study/NCT00549328,NCT00549328,"Lung Cancer, Non-Small Cell"
+161,0.945558741,42.5917395,https://clinicaltrials.gov/study/NCT00628628,NCT00628628,Tumor Lysis Syndrome
+162,0.998716989,178.9688486,https://clinicaltrials.gov/study/NCT00401128,NCT00401128,Kidney Cancer
+163,0.80485534,9.718365051,https://clinicaltrials.gov/study/NCT03476928,NCT03476928,Uterine Fibroids and Heavy Menstrual Bleeding
+164,0.999551036,184.4176456,https://clinicaltrials.gov/study/NCT00126828,NCT00126828,"Carcinoma, Small Cell"
+165,0.999227291,181.9947008,https://clinicaltrials.gov/study/NCT00085501,NCT00085501,Lung Cancer
+166,0.998889338,172.966394,https://clinicaltrials.gov/study/NCT00718601,NCT00718601,Multiple Myeloma
+167,0.996174931,158.8965408,https://clinicaltrials.gov/study/NCT00286780,NCT00286780,Chronic Lymphocytic Leukemia
+168,0.97558566,93.15589643,https://clinicaltrials.gov/study/NCT02260180,NCT02260180,Seborrheic Keratosis
+169,0.991689309,151.6800679,https://clinicaltrials.gov/study/NCT00462280,NCT00462280,Precancerous Condition|Stage 0 Melanoma|Stage I Melanoma|Stage II Melanoma
+170,0.995811729,154.0600651,https://clinicaltrials.gov/study/NCT04155580,NCT04155580,Acute Myeloid Leukemia
+171,0.98729322,150.407077,https://clinicaltrials.gov/study/NCT00002880,NCT00002880,Lymphoma
+172,0.996141388,159.2215682,https://clinicaltrials.gov/study/NCT02564380,NCT02564380,Metastatic Squamous Non-small Cell Lung Cancer
+173,0.996494426,160.2273995,https://clinicaltrials.gov/study/NCT00574080,NCT00574080,Multiple Myeloma
+174,0.986755209,124.3883815,https://clinicaltrials.gov/study/NCT03025880,NCT03025880,Advanced Breast Cancer
+175,0.984782445,120.0733365,https://clinicaltrials.gov/study/NCT02708680,NCT02708680,Breast Cancer
+176,0.989439434,150.5322235,https://clinicaltrials.gov/study/NCT01957280,NCT01957280,Solid Tumors
+177,0.981309421,88.10455176,https://clinicaltrials.gov/study/NCT01677780,NCT01677780,"Myelogenous Leukemia, Chronic, Neoplasms, Myelogenous Leukemia, Acute"
+178,0.982211814,108.799782,https://clinicaltrials.gov/study/NCT01965080,NCT01965080,Endometrial Cancer
+179,0.977049833,88.09561674,https://clinicaltrials.gov/study/NCT01875380,NCT01875380,Colorectal Neoplasms|Metastatic Disease
+180,0.999324406,182.8088067,https://clinicaltrials.gov/study/NCT00003880,NCT00003880,Ovarian Cancer|Primary Peritoneal Cavity Cancer
+181,0.891607429,19.05519136,https://clinicaltrials.gov/study/NCT02080624,NCT02080624,Sturge- Weber Syndrome
+182,0.975253055,80.43292881,https://clinicaltrials.gov/study/NCT01282424,NCT01282424,Follicular Lymphoma|Small Lymphocytic Lymphoma|Lymphoplasmacytic Lymphoma|Marginal Zone Lymphoma
+183,0.746837209,6.585989503,https://clinicaltrials.gov/study/NCT01955824,NCT01955824,Lung Cancer|Tuberculosis|Sarcoidosis|Interstitial Lung Disease
+184,0.996808952,156.2788659,https://clinicaltrials.gov/study/NCT00064324,NCT00064324,Recurrent Adult Soft Tissue Sarcoma|Stage III Adult Soft Tissue Sarcoma|Stage IV Adult Soft Tissue Sarcoma
+185,0.969920157,59.04422508,https://clinicaltrials.gov/study/NCT01234324,NCT01234324,Stomach Neoplasms|Gastroesophageal Junction Neoplasms
+186,0.990073689,150.3367474,https://clinicaltrials.gov/study/NCT02677324,NCT02677324,Waldenstrom Macroglobulinemia
+187,0.996522045,159.6571825,https://clinicaltrials.gov/study/NCT00354224,NCT00354224,Gastric Cancer
+188,0.997763162,164.1040636,https://clinicaltrials.gov/study/NCT00109824,NCT00109824,Recurrent Adult Burkitt Lymphoma|Recurrent Adult Diffuse Large Cell Lymphoma|Recurrent Mantle Cell Lymphoma
+189,0.999814609,182.1346161,https://clinicaltrials.gov/study/NCT01571024,NCT01571024,Advanced Solid Tumors|Metastatic Colorectal Cancer|Metastatic Pancreatic Cancer
+190,0.99781509,164.906694,https://clinicaltrials.gov/study/NCT00016224,NCT00016224,Ovarian Cancer
+191,0.987199636,150.5125737,https://clinicaltrials.gov/study/NCT00599924,NCT00599924,Colorectal Neoplasms|Neoplasms
+192,0.996484691,158.9159439,https://clinicaltrials.gov/study/NCT05997524,NCT05997524,Advanced Gastric Carcinoma
+193,0.98209961,99.96781473,https://clinicaltrials.gov/study/NCT00766324,NCT00766324,Metastatic Hormone Refractory Prostate Cancer
+194,0.999527594,190.1305505,https://clinicaltrials.gov/study/NCT00005624,NCT00005624,Multiple Myeloma
+195,0.956052307,39.42801364,https://clinicaltrials.gov/study/NCT04597801,NCT04597801,Intracranial Tumor
+196,0.998146732,167.9772958,https://clinicaltrials.gov/study/NCT03366480,NCT03366480,Endometrial Cancer|Squamous Non-Small Cell Lung Cancer
+197,0.994409365,154.4835002,https://clinicaltrials.gov/study/NCT02200380,NCT02200380,For Donors|Related Donors Giving Peripheral Blood Stem Cells (PBSC) to a Sibling|For Recipients|Acute Myelogenous Leukemia (AML)|Acute Lymphoblastic Leukemia (ALL)|Myelodysplastic Syndrome (MDS)|Chronic Myelogenous Leukemia (CML)|Non-Hodgkins Lymphoma (NHL)|Hodgkins Disease (HD)|Chronic Lymphocytic Leukemia (CLL)
+198,0.999353042,182.7669168,https://clinicaltrials.gov/study/NCT00068380,NCT00068380,Recurrent Gastric Cancer|Stage IV Gastric Cancer
+199,0.998371325,176.3178578,https://clinicaltrials.gov/study/NCT00568880,NCT00568880,Multiple Myeloma and Plasma Cell Neoplasm
+200,0.988083974,150.7165183,https://clinicaltrials.gov/study/NCT03042780,NCT03042780,Gastro-enteropancreatic Neuroendocrine Tumor|Pancreatic Cancer|Neuroendocrine Carcinomas of Pancreas|Islet Cell Carcinoma
+201,0.998415991,171.9137832,https://clinicaltrials.gov/study/NCT02309580,NCT02309580,T-cell Lymphoma|Relapsed and Refractory T-cell Lymphoma
+202,0.912222076,20.91570979,https://clinicaltrials.gov/study/NCT01191580,NCT01191580,Major Depression
+203,0.995415923,155.0405355,https://clinicaltrials.gov/study/NCT01948180,NCT01948180,"Lymphoma, Extranodal NK-T-Cell|EBV"
+204,0.999191588,188.8673776,https://clinicaltrials.gov/study/NCT01270880,NCT01270880,Adenocarcinoma of the Prostate|Hormone-resistant Prostate Cancer|Recurrent Prostate Cancer|Stage IV Prostate Cancer
+205,0.934301021,28.87092397,https://clinicaltrials.gov/study/NCT01668680,NCT01668680,Colorectal Cancer Metastatic
+206,0.97299891,84.58443338,https://clinicaltrials.gov/study/NCT00431080,NCT00431080,Breast Cancer
+207,0.98297759,129.0564994,https://clinicaltrials.gov/study/NCT00124280,NCT00124280,Non-small-cell Lung Carcinoma
+208,0.941677459,32.00911882,https://clinicaltrials.gov/study/NCT00979680,NCT00979680,Rectal Cancer
+209,0.996935956,158.5200335,https://clinicaltrials.gov/study/NCT00005980,NCT00005980,Breast Cancer
+210,0.992486238,152.647012,https://clinicaltrials.gov/study/NCT01023880,NCT01023880,Multiple Myeloma
+211,0.994057506,153.8856709,https://clinicaltrials.gov/study/NCT00086580,NCT00086580,B-Cell Chronic Lymphocytic Leukemia
+212,0.983565688,112.2017889,https://clinicaltrials.gov/study/NCT02830880,NCT02830880,Prostate Cancer
+213,0.997530226,161.5591467,https://clinicaltrials.gov/study/NCT01048580,NCT01048580,Colon Cancer
+214,0.999568555,183.0735758,https://clinicaltrials.gov/study/NCT00091624,NCT00091624,Multiple Myeloma
+215,0.983664395,142.2395742,https://clinicaltrials.gov/study/NCT01312324,NCT01312324,Locally Advanced Stage III or IV Thymic Cancer
+216,0.992039891,152.1941726,https://clinicaltrials.gov/study/NCT00633724,NCT00633724,Non Small Cell Lung Cancer
+217,0.998133562,165.3257761,https://clinicaltrials.gov/study/NCT00053924,NCT00053924,Pancreatic Cancer
+218,0.963808053,42.19224371,https://clinicaltrials.gov/study/NCT00265824,NCT00265824,Colorectal Cancer
+219,0.990290722,151.2575908,https://clinicaltrials.gov/study/NCT00849524,NCT00849524,Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma
+220,0.98627381,131.3823716,https://clinicaltrials.gov/study/NCT00644124,NCT00644124,"Lymphoma, Non-Hodgkin"
+221,0.974517722,73.42287148,https://clinicaltrials.gov/study/NCT00857324,NCT00857324,Multiple Myeloma
+222,0.997638188,166.0768902,https://clinicaltrials.gov/study/NCT03232424,NCT03232424,"Glioblastoma, Adult"
+223,0.996923453,157.4643134,https://clinicaltrials.gov/study/NCT00081224,NCT00081224,Colorectal Cancer
+224,0.99849967,173.1301095,https://clinicaltrials.gov/study/NCT02418624,NCT02418624,Breast Cancer|Ovarian Cancer|Advanced Cancer
+225,0.99498242,153.6020546,https://clinicaltrials.gov/study/NCT02683824,NCT02683824,Healthy Subject|Pancreatic Carcinoma
+226,0.981867156,112.9116588,https://clinicaltrials.gov/study/NCT04080024,NCT04080024,Breast Cancer|Pancreas Cancer
+227,0.994649821,154.2104964,https://clinicaltrials.gov/study/NCT00003501,NCT00003501,Non-hodgkins Lymphoma
+228,0.990705861,151.4588304,https://clinicaltrials.gov/study/NCT03213301,NCT03213301,"Malignant Pleural Mesothelioma, Advanced"
+229,0.99885845,173.6744763,https://clinicaltrials.gov/study/NCT00002801,NCT00002801,Colorectal Cancer
+230,0.994941476,154.1434751,https://clinicaltrials.gov/study/NCT00381901,NCT00381901,Breast Cancer
+231,0.999517209,193.828391,https://clinicaltrials.gov/study/NCT00048880,NCT00048880,Neoplasms
+232,0.797719518,8.693483893,https://clinicaltrials.gov/study/NCT02950480,NCT02950480,Breast Cancer
+233,0.994458839,154.9169668,https://clinicaltrials.gov/study/NCT03101280,NCT03101280,Gynecologic Neoplasms
+234,0.996832766,159.0001366,https://clinicaltrials.gov/study/NCT01222780,NCT01222780,Sarcoma|Neuroblastoma|Wilms Tumor|Leukemia|Lymphoma|Brain Tumors
+235,0.994161643,154.4766587,https://clinicaltrials.gov/study/NCT00779480,NCT00779480,Acute Myelogenous Leukemia (AML)
+236,0.784062447,6.282987419,https://clinicaltrials.gov/study/NCT04795180,NCT04795180,Rectal Cancer
+237,0.991098491,150.6892699,https://clinicaltrials.gov/study/NCT00570180,NCT00570180,Multiple Myeloma
+238,0.998760189,182.5731506,https://clinicaltrials.gov/study/NCT03265080,NCT03265080,Colon Cancer Metastatic|Head and Neck Cancer Metastatic|Metastatic Non-Small Cell Lung Cancer|Urothelial Carcinoma|Metastatic Melanoma
+239,0.98947732,151.2736668,https://clinicaltrials.gov/study/NCT02559024,NCT02559024,Colorectal Neoplasms
+240,0.973983296,86.40876436,https://clinicaltrials.gov/study/NCT00497224,NCT00497224,Cancer|Pancreas
+241,0.99944184,184.1990436,https://clinicaltrials.gov/study/NCT01964924,NCT01964924,Estrogen Receptor Negative|HER2/Neu Negative|Invasive Breast Carcinoma|Progesterone Receptor Negative|Recurrent Breast Carcinoma|Stage IV Breast Cancer|Triple-Negative Breast Carcinoma
+242,0.953534425,44.2224801,https://clinicaltrials.gov/study/NCT01272024,NCT01272024,Cancer
+243,0.954405382,52.21800655,https://clinicaltrials.gov/study/NCT02256124,NCT02256124,Neurofibromatosis Type 1
+244,0.99817364,169.8689596,https://clinicaltrials.gov/study/NCT01344824,NCT01344824,Lung Cancer
+245,0.964139547,51.40884182,https://clinicaltrials.gov/study/NCT01985724,NCT01985724,Breast Cancer
+246,0.997213658,159.7755615,https://clinicaltrials.gov/study/NCT02443324,NCT02443324,"Gastric Adenocarcinoma|Adenocarcinoma of the Gastroesophageal Junction|Non-small Cell Lung Cancer|Carcinoma, Transitional Cell|Biliary Tract Cancer"
+247,0.993989785,153.4804573,https://clinicaltrials.gov/study/NCT02573324,NCT02573324,Glioblastoma|Gliosarcoma
+248,0.998580352,169.3339439,https://clinicaltrials.gov/study/NCT04775680,NCT04775680,Solid Tumor|Non Hodgkin Lymphoma
+249,0.994307502,154.7005176,https://clinicaltrials.gov/study/NCT03735680,NCT03735680,Breast Cancer|Head and Neck Squamous Cell Carcinoma|Colorectal Cancer|Prostate Cancer|Ovarian Cancer|Urothelial Carcinoma|Non-small Cell Lung Cancer
+250,0.940825498,26.88897172,https://clinicaltrials.gov/study/NCT00463580,NCT00463580,Depression
+251,0.967447103,69.12260797,https://clinicaltrials.gov/study/NCT03863080,NCT03863080,Myasthenia Gravis
+252,0.993505266,153.0742183,https://clinicaltrials.gov/study/NCT03824080,NCT03824080,Acute Myeloid Leukemia|High-risk Myelodysplastic Syndrome|Low-risk Myelodysplastic Syndrome
+253,0.989763945,151.1086389,https://clinicaltrials.gov/study/NCT01264380,NCT01264380,Malignant Melanoma
+254,0.705601875,6.582782926,https://clinicaltrials.gov/study/NCT02122380,NCT02122380,Polycystic Ovary Syndrome
+255,0.809728862,8.918814327,https://clinicaltrials.gov/study/NCT00904280,NCT00904280,"Cancers, Pain|Lower Back Pain"
+256,0.991568376,152.1556185,https://clinicaltrials.gov/study/NCT04032080,NCT04032080,Triple Negative Breast Cancer
+257,0.870255349,12.04226816,https://clinicaltrials.gov/study/NCT00418080,NCT00418080,Prostate Cancer
+258,0.993287315,152.202727,https://clinicaltrials.gov/study/NCT02339324,NCT02339324,Melanoma
+259,0.991881865,152.2235636,https://clinicaltrials.gov/study/NCT01333124,NCT01333124,Resectable Pancreatic Carcinoma
+260,0.99895056,183.7818677,https://clinicaltrials.gov/study/NCT00027924,NCT00027924,Leukemia|Myelodysplastic Syndromes
+261,0.999256148,191.7349408,https://clinicaltrials.gov/study/NCT00415324,NCT00415324,"Unspecified Adult Solid Tumor, Protocol Specific"
+262,0.9500352,36.12349579,https://clinicaltrials.gov/study/NCT00416624,NCT00416624,"Anemia|Leukemia|Lymphoma|Lymphoproliferative Disorder|Multiple Myeloma and Plasma Cell Neoplasm|Precancerous Condition|Unspecified Adult Solid Tumor, Protocol Specific"
+263,0.995156867,154.341152,https://clinicaltrials.gov/study/NCT01918124,NCT01918124,Prosthesis Survival
+264,0.984521841,140.2612182,https://clinicaltrials.gov/study/NCT03963024,NCT03963024,"Irradiated Bone Marrow|Transplant-Related Hematologic Malignancy|Leukemia, Acute|Multiple Myeloma|Graft Vs Host Disease"
+265,0.99862887,177.3186631,https://clinicaltrials.gov/study/NCT00003224,NCT00003224,Melanoma (Skin)
+266,0.997016891,158.5291724,https://clinicaltrials.gov/study/NCT02607124,NCT02607124,High Grade Glioma|Diffuse Intrinsic Pontine Glioma|Bithalamic High Grade Glioma
+267,0.989955955,151.0196727,https://clinicaltrials.gov/study/NCT02063724,NCT02063724,Breast Cancer
+268,0.999314546,183.1777072,https://clinicaltrials.gov/study/NCT00003124,NCT00003124,Prostate Cancer
+269,0.862129826,13.85129131,https://clinicaltrials.gov/study/NCT03040024,NCT03040024,Otolaryngeal Cancer
+270,0.998843557,183.0568959,https://clinicaltrials.gov/study/NCT00024024,NCT00024024,Sarcoma
+271,0.99482074,154.7849099,https://clinicaltrials.gov/study/NCT03483324,NCT03483324,Acute Myeloid Leukemia|Acute Lymphoblastic Leukemia in Remission|Myelodysplastic Syndromes|Other Acute Leukemias
+272,0.999554464,187.1916775,https://clinicaltrials.gov/study/NCT01421524,NCT01421524,"Multiple Myeloma|Lymphoma, Large B-Cell, Diffuse|Pleiotropic Pathway Modifier|Glioblastoma|Lymphoma|Primary Central Nervous System Lymphoma"
+273,0.885718672,14.46390407,https://clinicaltrials.gov/study/NCT01824524,NCT01824524,Pain
+274,0.939615834,30.35432723,https://clinicaltrials.gov/study/NCT00437424,NCT00437424,"Carcinoma, Hepatocellular"
+275,0.985001096,115.237891,https://clinicaltrials.gov/study/NCT00967824,NCT00967824,Breast Cancer
+276,0.998224568,167.5254537,https://clinicaltrials.gov/study/NCT02132624,NCT02132624,B Cell Lymphoma|B Cell Leukemia
+277,0.999712439,190.9993731,https://clinicaltrials.gov/study/NCT00002480,NCT00002480,Prostate Cancer
+278,0.998788888,179.1379397,https://clinicaltrials.gov/study/NCT00389480,NCT00389480,Tumors
+279,0.999305248,188.0208281,https://clinicaltrials.gov/study/NCT00052780,NCT00052780,Childhood Central Nervous System Germ Cell Tumor|Childhood Choroid Plexus Tumor|Childhood Craniopharyngioma|Childhood Ependymoblastoma|Childhood Grade I Meningioma|Childhood Grade II Meningioma|Childhood Grade III Meningioma|Childhood High-grade Cerebellar Astrocytoma|Childhood High-grade Cerebral Astrocytoma|Childhood Infratentorial Ependymoma|Childhood Low-grade Cerebellar Astrocytoma|Childhood Low-grade Cerebral Astrocytoma|Childhood Medulloepithelioma|Childhood Mixed Glioma|Childhood Oligodendroglioma|Childhood Supratentorial Ependymoma|Recurrent Childhood Brain Stem Glioma|Recurrent Childhood Cerebellar Astrocytoma|Recurrent Childhood Cerebral Astrocytoma|Recurrent Childhood Ependymoma|Recurrent Childhood Medulloblastoma|Recurrent Childhood Pineoblastoma|Recurrent Childhood Subependymal Giant Cell Astrocytoma|Recurrent Childhood Supratentorial Primitive Neuroectodermal Tumor|Recurrent Childhood Visual Pathway and Hypothalamic Glioma
+280,0.982166198,123.9518888,https://clinicaltrials.gov/study/NCT00172380,NCT00172380,NSCLC
+281,0.852790475,14.33973801,https://clinicaltrials.gov/study/NCT02439580,NCT02439580,Colorectal Cancer
+282,0.995451528,156.4675248,https://clinicaltrials.gov/study/NCT00652080,NCT00652080,Squamous Cell Carcinoma
+283,0.996723436,159.1202838,https://clinicaltrials.gov/study/NCT01101880,NCT01101880,Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Chronic Myelomonocytic Leukemia|de Novo Myelodysplastic Syndromes|Refractory Anemia With Excess Blasts|Untreated Adult Acute Myeloid Leukemia|Myeloproliferative Neoplasm With 10% Blasts or Higher
+284,0.934809499,28.80113878,https://clinicaltrials.gov/study/NCT00952380,NCT00952380,Venous Thromboembolism
+285,0.998775061,176.480818,https://clinicaltrials.gov/study/NCT00024180,NCT00024180,Leukemia|Lymphoma
+286,0.997465468,161.7431549,https://clinicaltrials.gov/study/NCT00072280,NCT00072280,Sarcoma
+287,0.997221168,161.3686627,https://clinicaltrials.gov/study/NCT02472080,NCT02472080,Thyroid Cancer
+288,0.999320813,189.1740892,https://clinicaltrials.gov/study/NCT01468324,NCT01468324,Glioblastoma Multiforme
+289,0.943674152,34.31561099,https://clinicaltrials.gov/study/NCT01240824,NCT01240824,Bladder Cancer
+290,0.97294165,68.87364974,https://clinicaltrials.gov/study/NCT00372424,NCT00372424,Breast Cancer
+291,0.990508912,151.0590689,https://clinicaltrials.gov/study/NCT01550224,NCT01550224,Acute Myeloid Leukemia With 11q23-abnormality in Relapse
+292,0.996397262,158.3493763,https://clinicaltrials.gov/study/NCT00527124,NCT00527124,Adenocarcinoma of the Prostate|Stage IV Prostate Cancer
+293,0.916830019,22.18100933,https://clinicaltrials.gov/study/NCT01304524,NCT01304524,Cervical Intraepithelial Neoplasia
+294,0.877788952,16.40607306,https://clinicaltrials.gov/study/NCT04718324,NCT04718324,Breast Disease|Breast Cancer|Breast Neoplasms
+295,0.995652717,157.2958789,https://clinicaltrials.gov/study/NCT03515824,NCT03515824,Neoplasms|Colorectal Neoplasms|Head and Neck Neoplasms
+296,0.997787579,166.3521714,https://clinicaltrials.gov/study/NCT00562224,NCT00562224,"Neoplasms by Site|Lymphoma, Non-hodgkin|Hodgkin Disease|Multiple Myeloma|Leukemia, Lymphocytic, Chronic"
+297,0.991200689,151.0826461,https://clinicaltrials.gov/study/NCT01606124,NCT01606124,Advanced Colorectal Adenomas|Adenocarcinoma of the Colon|Stage I Colon Cancer|Stage II Colon Cancer|Stage III Colon Cancer
+298,0.993700728,152.9703846,https://clinicaltrials.gov/study/NCT01222624,NCT01222624,Solid Tumors
+299,0.996605304,161.1390544,https://clinicaltrials.gov/study/NCT01004224,NCT01004224,"Advanced Solid Tumors With Alterations of FGFR1, 2 and or 3|Squamous Lung Cancer With FGFR1 Amplification|Bladder Cancer With FGFR3 Mutation or Fusion|Advanced Solid Tumors With FGFR1 Amplication|Advanced Solid Tumors With FGFR2 Amplication|Advanced Solid Tumors With FGFR3 Mutation"
+300,0.992980878,152.5246849,https://clinicaltrials.gov/study/NCT00618124,NCT00618124,Solid Tumors|Breast Cancer|Neoplasms
+301,0.953754479,41.97339352,https://clinicaltrials.gov/study/NCT03578224,NCT03578224,Esophagus
+302,0.997727261,168.9042371,https://clinicaltrials.gov/study/NCT00061880,NCT00061880,Lymphoma
+303,0.966411304,54.77095137,https://clinicaltrials.gov/study/NCT00802880,NCT00802880,Sarcoma
+304,0.993567992,153.3353769,https://clinicaltrials.gov/study/NCT00546780,NCT00546780,Multiple Myeloma
+305,0.992966608,152.5358682,https://clinicaltrials.gov/study/NCT02447380,NCT02447380,Advanced Gastric Adenocarcinoma
+306,0.967561416,63.48790302,https://clinicaltrials.gov/study/NCT01183780,NCT01183780,Colorectal Cancer
+307,0.989603291,151.0710498,https://clinicaltrials.gov/study/NCT00258180,NCT00258180,"Diarrhea|Gastrointestinal Complications|Unspecified Childhood Solid Tumor, Protocol Specific"
+308,0.994672059,154.7437579,https://clinicaltrials.gov/study/NCT03418480,NCT03418480,Human Papilloma Virus Related Carcinoma|Head and Neck Neoplasm|Cervical Neoplasm|Penile Neoplasms Malignant|Unknown Primary Tumors
+309,0.991422137,151.631394,https://clinicaltrials.gov/study/NCT01160380,NCT01160380,Fatigue|Multiple Myeloma
+310,0.968098524,59.71257228,https://clinicaltrials.gov/study/NCT00385580,NCT00385580,Prostate Cancer
+311,0.995522334,157.3442717,https://clinicaltrials.gov/study/NCT00819780,NCT00819780,Colon Cancer|Colorectal Cancer|Rectal Cancer|Metastatic Colorectal Cancer
+312,0.995180088,155.6495882,https://clinicaltrials.gov/study/NCT00761280,NCT00761280,Anaplastic Astrocytoma|Glioblastoma
+313,0.994056179,154.8577779,https://clinicaltrials.gov/study/NCT00332280,NCT00332280,"Gastrointestinal Cancer|Prostate Cancer|Genital Neoplasms, Female"
+314,0.996647879,157.9321705,https://clinicaltrials.gov/study/NCT01270724,NCT01270724,CNS Germ Cell Tumor
+315,0.989389021,150.8364385,https://clinicaltrials.gov/study/NCT01002924,NCT01002924,Solid Tumors
+316,0.9982878,174.4984308,https://clinicaltrials.gov/study/NCT03233724,NCT03233724,"Carcinoma, Non-Small-Cell Lung|Lung Cancer|Non-Small Cell Lung Cancer|Carcinoma, Esophageal|Malignant Pleural Mesotheliomas"
+317,0.998640302,178.3251339,https://clinicaltrials.gov/study/NCT03033524,NCT03033524,Recurrent Glioblastoma
+318,0.995442539,156.1062649,https://clinicaltrials.gov/study/NCT01199224,NCT01199224,Solid Tumors
+319,0.995614167,157.5987712,https://clinicaltrials.gov/study/NCT03609424,NCT03609424,Gastrointestinal Stromal Tumors
+320,0.996497094,157.9362852,https://clinicaltrials.gov/study/NCT03281824,NCT03281824,HER2-positive Breast Cancer
+321,0.994672133,155.2757988,https://clinicaltrials.gov/study/NCT00085124,NCT00085124,Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Secondary Acute Myeloid Leukemia|Untreated Adult Acute Myeloid Leukemia
+322,0.990550002,151.982828,https://clinicaltrials.gov/study/NCT00619424,NCT00619424,"Lung Cancer, Non-Small Cell"
+323,0.922062689,27.45992683,https://clinicaltrials.gov/study/NCT01110824,NCT01110824,Acute Myeloid Leukemia|Precursor-cell Lymphoblastic Leukemia-Lymphoma|Lymphoid Neoplasm|Multiple Myeloma|Lymphoma|Autologous Hematopoietic Stem Cell Transplantation
+324,0.98992715,151.3304109,https://clinicaltrials.gov/study/NCT03251924,NCT03251924,Cancer|Tumors|Neoplasm|Malignancy
+325,0.998328071,169.8087195,https://clinicaltrials.gov/study/NCT04338724,NCT04338724,Advanced Solid Tumor
+326,0.937421244,35.94849056,https://clinicaltrials.gov/study/NCT03558724,NCT03558724,Esophageal Cancer
+327,0.927508036,25.73302676,https://clinicaltrials.gov/study/NCT02111824,NCT02111824,Lung Neoplasms|Thoracic Neoplasms|Neoplasms by Site|Neoplasms|Lung Diseases
+328,0.995365688,154.618444,https://clinicaltrials.gov/study/NCT00003524,NCT00003524,Stomach (Gastric) Cancer
+329,0.984200433,130.1930572,https://clinicaltrials.gov/study/NCT03337724,NCT03337724,Breast Cancer
+330,0.999191537,185.0293283,https://clinicaltrials.gov/study/NCT00562380,NCT00562380,"Lymphoma|Prostate Cancer|Sarcoma|Small Intestine Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+331,0.926898986,28.4209763,https://clinicaltrials.gov/study/NCT00831480,NCT00831480,Kidney Cancer
+332,0.959564676,32.86806638,https://clinicaltrials.gov/study/NCT00198380,NCT00198380,Pneumonic-type Adenocarcinoma (P-ADC)|Lung Adenocarcinoma With Bronchiolo-alveolar Feature
+333,0.999252942,187.933273,https://clinicaltrials.gov/study/NCT00896480,NCT00896480,Melanoma
+334,0.994098383,154.6820311,https://clinicaltrials.gov/study/NCT02435680,NCT02435680,Advanced Triple Negative Breast Cancer (TNBC) With High TAMs
+335,0.993264215,152.277164,https://clinicaltrials.gov/study/NCT03109080,NCT03109080,"Breast Neoplasms, Triple-Negative|Breast Neoplasm Malignant Female|Radiotherapy Side Effect"
+336,0.923155731,20.61623947,https://clinicaltrials.gov/study/NCT03655080,NCT03655080,Cord Compression
+337,0.99583646,157.8553261,https://clinicaltrials.gov/study/NCT00719524,NCT00719524,Neoplasms
+338,0.996455832,158.3742647,https://clinicaltrials.gov/study/NCT01795924,NCT01795924,Acute Myelogenous Leukemia|Myelodysplastic Syndrome
+339,0.998928607,181.6406672,https://clinicaltrials.gov/study/NCT02499224,NCT02499224,Solid Tumors
+340,0.998031506,172.5879227,https://clinicaltrials.gov/study/NCT00784524,NCT00784524,Breast Cancer
+341,0.920982204,22.94862853,https://clinicaltrials.gov/study/NCT00200824,NCT00200824,Breast Cancer|Prostate Cancer
+342,0.999288645,188.1468105,https://clinicaltrials.gov/study/NCT02460224,NCT02460224,Advanced Solid Tumors
+343,0.998716541,183.7645879,https://clinicaltrials.gov/study/NCT00003624,NCT00003624,Cervical Cancer|Endometrial Cancer|Fallopian Tube Cancer|Neurotoxicity|Ovarian Cancer|Primary Peritoneal Cavity Cancer|Sarcoma
+344,0.999070487,185.2717984,https://clinicaltrials.gov/study/NCT00451880,NCT00451880,Cancer|Non-small-cell Lung Cancer|Colorectal Cancer|Papillary Thyroid Cancer|Melanoma
+345,0.999089423,188.6725148,https://clinicaltrials.gov/study/NCT01079780,NCT01079780,Colorectal Cancer
+346,0.98535265,131.8102517,https://clinicaltrials.gov/study/NCT00055380,NCT00055380,Cancer
+347,0.96465314,57.37009029,https://clinicaltrials.gov/study/NCT00031980,NCT00031980,Anemia|Leukemia|Neutropenia|Thrombocytopenia
+348,0.9833561,116.5449965,https://clinicaltrials.gov/study/NCT01484080,NCT01484080,Breast Cancer
+349,0.934592593,28.55345173,https://clinicaltrials.gov/study/NCT00165880,NCT00165880,Metastatic Breast Cancer
+350,0.983654424,128.8286918,https://clinicaltrials.gov/study/NCT00726180,NCT00726180,Breast Cancer
+351,0.988360553,151.0283186,https://clinicaltrials.gov/study/NCT00001880,NCT00001880,Neoplasm Metastasis
+352,0.945218053,34.25270562,https://clinicaltrials.gov/study/NCT03164980,NCT03164980,Quality of Life|Ovarian Cancer|Recurrent Ovarian Carcinoma
+353,0.870257348,12.59762868,https://clinicaltrials.gov/study/NCT02867280,NCT02867280,Hepatocellular Carcinoma|Recurrence
+354,0.993420812,152.7059608,https://clinicaltrials.gov/study/NCT00412880,NCT00412880,"Carcinoma, Small Cell"
+355,0.983160559,86.54283869,https://clinicaltrials.gov/study/NCT03018080,NCT03018080,Breast - Female|Male Breast Cancer
+356,0.999448258,192.5157041,https://clinicaltrials.gov/study/NCT00274924,NCT00274924,Lymphoma
+357,0.99907319,190.4482075,https://clinicaltrials.gov/study/NCT01392924,NCT01392924,Neoplasm Malignant
+358,0.994190154,154.0009292,https://clinicaltrials.gov/study/NCT00454324,NCT00454324,Small Cell Lung Cancer
+359,0.986322415,138.4695776,https://clinicaltrials.gov/study/NCT00076024,NCT00076024,Breast Neoplasms
+360,0.996521728,156.3042457,https://clinicaltrials.gov/study/NCT02885324,NCT02885324,Glioblastoma Multiforme|Anaplastic Astrocytoma|Malignant Brain Tumor|High Grade Glioma
+361,0.993442411,153.0567267,https://clinicaltrials.gov/study/NCT02335424,NCT02335424,Urothelial Cancer
+362,0.99512007,156.1177264,https://clinicaltrials.gov/study/NCT02374424,NCT02374424,"Diffuse, Large B-Cell, Lymphoma"
+363,0.998819556,176.7995555,https://clinicaltrials.gov/study/NCT01445080,NCT01445080,"Blastic Phase|Childhood Acute Promyelocytic Leukemia With PML-RARA|Childhood Chronic Myelogenous Leukemia, BCR-ABL1 Positive|Childhood Solid Neoplasm|Chronic Myelogenous Leukemia, BCR-ABL1 Positive|Juvenile Myelomonocytic Leukemia|Philadelphia Chromosome Negative, BCR-ABL1 Positive Chronic Myelogenous Leukemia|Recurrent Childhood Acute Lymphoblastic Leukemia|Recurrent Childhood Acute Myeloid Leukemia|Recurrent Disease"
+364,0.989787458,150.6686873,https://clinicaltrials.gov/study/NCT01998880,NCT01998880,"Lymphocytic Leukemia, Chronic"
+365,0.98713265,135.4515939,https://clinicaltrials.gov/study/NCT02069080,NCT02069080,Cancer
+366,0.998697294,174.0259803,https://clinicaltrials.gov/study/NCT03534180,NCT03534180,Anaplastic Large Cell Lymphoma|Recurrent Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma|Refractory Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+367,0.933546768,24.01837906,https://clinicaltrials.gov/study/NCT04518124,NCT04518124,Angiosarcoma
+368,0.99627725,159.111526,https://clinicaltrials.gov/study/NCT03284424,NCT03284424,Squamous Cell Carcinoma
+369,0.996649947,161.9426501,https://clinicaltrials.gov/study/NCT01850524,NCT01850524,Multiple Myeloma
+370,0.995371429,154.9529742,https://clinicaltrials.gov/study/NCT03215524,NCT03215524,Multiple Myeloma
+371,0.992448852,151.6514832,https://clinicaltrials.gov/study/NCT01342224,NCT01342224,Locally Advanced Pancreatic Adenocarcinoma
+372,0.990529608,150.7428617,https://clinicaltrials.gov/study/NCT01087424,NCT01087424,Diffuse Large B-Cell Lymphoma
+373,0.996775465,160.0867588,https://clinicaltrials.gov/study/NCT00060424,NCT00060424,B-Cell Prolymphocytic Leukemia|Chronic Lymphocytic Leukemia|Prolymphocytic Leukemia|Recurrent Chronic Lymphocytic Leukemia|Recurrent Small Lymphocytic Lymphoma|Refractory Chronic Lymphocytic Leukemia|T-Cell Prolymphocytic Leukemia
+374,0.998684284,180.1156655,https://clinicaltrials.gov/study/NCT00008424,NCT00008424,"Unspecified Childhood Solid Tumor, Protocol Specific"
+375,0.984170049,150.4107516,https://clinicaltrials.gov/study/NCT03661424,NCT03661424,Breast Cancer Female|Leptomeningeal Metastases
+376,0.997412646,162.28459,https://clinicaltrials.gov/study/NCT00092924,NCT00092924,"Carcinoma, Non-Small-Cell Lung"
+377,0.910019484,19.99566904,https://clinicaltrials.gov/study/NCT00272324,NCT00272324,Colorectal Cancer|Polyps|Adenomas
+378,0.971368869,59.87751841,https://clinicaltrials.gov/study/NCT01331824,NCT01331824,Bladder Cancer
+379,0.932860746,32.12810705,https://clinicaltrials.gov/study/NCT02835924,NCT02835924,Metastatic Colorectal Cancer
+380,0.987953688,150.3555218,https://clinicaltrials.gov/study/NCT03833180,NCT03833180,Chronic Lymphocytic Leukemia|Mantle Cell Lymphoma|Follicular Lymphoma|Marginal Zone Lymphoma|Diffuse Large B-cell Lymphoma|Richter Transformation Lymphoma|Burkitt Lymphoma|Lymphoplasmacytoid Lymphoma|T-cell Non-Hodgkin Lymphoma|Acute Lymphoid Leukemia|Acute Myeloid Leukemia|Waldenstrom Macroglobulinemia
+381,0.999763653,172.3166359,https://clinicaltrials.gov/study/NCT03081780,NCT03081780,Refractory Acute Myelogenous Leukemia|Relapsed Acute Myelogenous Leukemia
+382,0.989788007,151.1367744,https://clinicaltrials.gov/study/NCT00449280,NCT00449280,Advanced Solid Tumor
+383,0.983670093,131.584278,https://clinicaltrials.gov/study/NCT02678780,NCT02678780,Neuroendocrine Tumors
+384,0.995485029,156.9334751,https://clinicaltrials.gov/study/NCT00882180,NCT00882180,Solid Tumors
+385,0.982017658,131.6228039,https://clinicaltrials.gov/study/NCT03263780,NCT03263780,Prostate Cancer
+386,0.998171477,175.6363475,https://clinicaltrials.gov/study/NCT00590824,NCT00590824,Melanoma
+387,0.987391415,150.2121006,https://clinicaltrials.gov/study/NCT00423124,NCT00423124,Hematological Malignancies
+388,0.998437544,175.0654441,https://clinicaltrials.gov/study/NCT00004224,NCT00004224,Brain and Central Nervous System Tumors
+389,0.822517064,12.91092888,https://clinicaltrials.gov/study/NCT00029224,NCT00029224,Breast Cancer|Multiple Myeloma|Prostate Cancer
+390,0.800336805,7.822841798,https://clinicaltrials.gov/study/NCT02281136,NCT02281136,"Keratosis, Actinic"
+391,0.995985279,159.2394143,https://clinicaltrials.gov/study/NCT00001436,NCT00001436,Neoplasm Metastasis|Osteosarcoma
+392,0.975236391,82.28973806,https://clinicaltrials.gov/study/NCT02636036,NCT02636036,Colorectal Cancer|Squamous Cell Carcinoma of the Head and Neck|Epithelial Tumor
+393,0.999525997,182.1154673,https://clinicaltrials.gov/study/NCT00108134,NCT00108134,Basal Cell Carcinoma
+394,0.932171515,29.06364163,https://clinicaltrials.gov/study/NCT02697734,NCT02697734,Cushing's Disease
+395,0.987205018,147.0891284,https://clinicaltrials.gov/study/NCT02584634,NCT02584634,Non-Small Cell Lung Cancer
+396,0.9897685,151.2705668,https://clinicaltrials.gov/study/NCT04370834,NCT04370834,Hematopoietic and Lymphoid Cell Neoplasm|Malignant Solid Neoplasm|Pneumonia|Pneumonitis|Severe Acute Respiratory Distress Syndrome|Symptomatic COVID-19 Infection Laboratory-Confirmed
+397,0.966282246,53.70472969,https://clinicaltrials.gov/study/NCT03352934,NCT03352934,Cancer
+398,0.980423087,96.07569752,https://clinicaltrials.gov/study/NCT00755534,NCT00755534,Colorectal Cancer
+399,0.99118551,151.5194043,https://clinicaltrials.gov/study/NCT00151034,NCT00151034,Urologic Neoplasms
+400,0.998837038,176.2956504,https://clinicaltrials.gov/study/NCT03092934,NCT03092934,"Neoplasms|Neoplasm Metastasis|Triple Negative Breast Neoplasms|Head and Neck Neoplasms|Breast Neoplasms|Solid Tumor, Adult|Small Cell Lung Carcinoma"
+401,0.99520616,155.6472346,https://clinicaltrials.gov/study/NCT01460901,NCT01460901,Neuroblastoma
+402,0.998743165,184.4705514,https://clinicaltrials.gov/study/NCT04445701,NCT04445701,Multiple Myeloma
+403,0.995399362,154.7284629,https://clinicaltrials.gov/study/NCT05493501,NCT05493501,NSCLC
+404,0.983776429,124.5437803,https://clinicaltrials.gov/study/NCT03841201,NCT03841201,Advanced Hepatocellular Carcinoma
+405,0.999751587,177.6762383,https://clinicaltrials.gov/study/NCT01122901,NCT01122901,Adult Giant Cell Glioblastoma|Adult Glioblastoma|Adult Gliosarcoma|Recurrent Adult Brain Tumor
+406,0.971122514,58.5865851,https://clinicaltrials.gov/study/NCT03205501,NCT03205501,Barrett Esophagus|Esophageal Cancer|Dysplasia in Barrett Esophagus
+407,0.997850005,172.3237039,https://clinicaltrials.gov/study/NCT04235101,NCT04235101,Solid Tumor
+408,0.993306532,153.5616169,https://clinicaltrials.gov/study/NCT00054301,NCT00054301,Breast Cancer
+409,0.990841389,151.0723437,https://clinicaltrials.gov/study/NCT04203901,NCT04203901,Advanced Renal Cell Carcinoma
+410,0.980317758,102.6874016,https://clinicaltrials.gov/study/NCT00983801,NCT00983801,Stomach Neoplasms
+411,0.977365986,96.80463591,https://clinicaltrials.gov/study/NCT00076401,NCT00076401,"Leukemia|Leukemia, Lymphocytic, Chronic"
+412,0.996860112,162.012609,https://clinicaltrials.gov/study/NCT05169801,NCT05169801,Non-small Cell Lung Cancer(NSCLC)
+413,0.996242101,159.9924065,https://clinicaltrials.gov/study/NCT00089180,NCT00089180,Actinic Keratosis|Basal Cell Carcinoma of the Skin|Recurrent Skin Cancer|Squamous Cell Carcinoma of the Skin
+414,0.99053106,151.4088558,https://clinicaltrials.gov/study/NCT01149434,NCT01149434,Cancer|Neuroendocrine|Ovarian Cancer|Colon Cancer
+415,0.994853,155.9394086,https://clinicaltrials.gov/study/NCT03588936,NCT03588936,Acute Leukemia|Chronic Leukemia|Lymphoma|Myelodysplastic Syndromes
+416,0.971972601,60.13727946,https://clinicaltrials.gov/study/NCT00483834,NCT00483834,Colorectal Cancer
+417,0.979147963,97.53521778,https://clinicaltrials.gov/study/NCT00325234,NCT00325234,Breast Cancer
+418,0.992263699,151.7242441,https://clinicaltrials.gov/study/NCT00858234,NCT00858234,Multiple Myeloma
+419,0.925017371,22.7717546,https://clinicaltrials.gov/study/NCT00182234,NCT00182234,Continuity of Care|Quality of Life
+420,0.998706108,174.3694536,https://clinicaltrials.gov/study/NCT00084734,NCT00084734,"Unspecified Adult Solid Tumor, Protocol Specific"
+421,0.997253186,160.9988428,https://clinicaltrials.gov/study/NCT00408434,NCT00408434,Neoplasm
+422,0.993620672,152.0235143,https://clinicaltrials.gov/study/NCT00040534,NCT00040534,Neoplasms
+423,0.999539857,188.7189745,https://clinicaltrials.gov/study/NCT00437034,NCT00437034,Stage II Multiple Myeloma|Stage III Multiple Myeloma
+424,0.99472386,154.547531,https://clinicaltrials.gov/study/NCT00003934,NCT00003934,Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Promyelocytic Leukemia (M3)|Childhood Acute Promyelocytic Leukemia (M3)|Untreated Adult Acute Myeloid Leukemia|Untreated Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies
+425,0.999603027,178.8655467,https://clinicaltrials.gov/study/NCT00003101,NCT00003101,Brain and Central Nervous System Tumors
+426,0.772137639,8.804009609,https://clinicaltrials.gov/study/NCT02555501,NCT02555501,Oral Mucositis
+427,0.998852689,178.7251209,https://clinicaltrials.gov/study/NCT00005601,NCT00005601,Lymphoma
+428,0.991230056,152.5350497,https://clinicaltrials.gov/study/NCT01024101,NCT01024101,Head and Neck Cancer
+429,0.993164915,152.4241237,https://clinicaltrials.gov/study/NCT00691301,NCT00691301,Cervical Cancer
+430,0.999707988,187.3699919,https://clinicaltrials.gov/study/NCT00869401,NCT00869401,Brain and Central Nervous System Tumors
+431,0.989482658,151.3979679,https://clinicaltrials.gov/study/NCT00001901,NCT00001901,Vasculitis|Wegener's Granulomatosis
+432,0.99434961,154.4797306,https://clinicaltrials.gov/study/NCT01325701,NCT01325701,Diffuse Large Cell B-lymphoma
+433,0.996610972,158.1811729,https://clinicaltrials.gov/study/NCT03343301,NCT03343301,Gastrointestinal Cancer|Gastrointestinal Cancer Metastatic|Gastric Cancer
+434,0.986403495,127.4368453,https://clinicaltrials.gov/study/NCT00249301,NCT00249301,Breast Neoplasm|Colon Neoplasm|Pancreatic Neoplasm|Bladder Neoplasm
+435,0.83733779,11.57474831,https://clinicaltrials.gov/study/NCT01121601,NCT01121601,Patient With Hepatic Metastasis
+436,0.967390431,49.55632328,https://clinicaltrials.gov/study/NCT00146601,NCT00146601,Breast Cancer
+437,0.915867072,24.34309497,https://clinicaltrials.gov/study/NCT00431236,NCT00431236,"Nausea and Vomiting, Chemotherapy-Induced"
+438,0.815622271,10.62733918,https://clinicaltrials.gov/study/NCT02628236,NCT02628236,"Keratosis, Actinic"
+439,0.994562483,153.6877386,https://clinicaltrials.gov/study/NCT00634634,NCT00634634,Metastatic Breast Cancer
+440,0.997793992,168.7848581,https://clinicaltrials.gov/study/NCT01956734,NCT01956734,Glioblastoma Multiforme|Recurrent Tumor
+441,0.993848442,153.3826939,https://clinicaltrials.gov/study/NCT02935634,NCT02935634,Advanced Gastric Cancer
+442,0.983235616,110.8667228,https://clinicaltrials.gov/study/NCT03311334,NCT03311334,Renal Cell Carcinoma (RCC)|Urothelial Carcinoma|Primary Peritoneal Cancer|Platinum-resistant Ovarian Cancer (PROC)|Serous Epithelial Ovarian Cancer|Fallopian Tube Cancer
+443,0.560153598,3.991739744,https://clinicaltrials.gov/study/NCT03649334,NCT03649334,Hematological Malignancy (Leukemia- Lymphoma)
+444,0.98554285,146.3266967,https://clinicaltrials.gov/study/NCT02726334,NCT02726334,Colorectal Cancer
+445,0.979818464,96.56243299,https://clinicaltrials.gov/study/NCT02784834,NCT02784834,Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma
+446,0.98007129,103.6083862,https://clinicaltrials.gov/study/NCT00903734,NCT00903734,Advanced Cancers
+447,0.998331316,169.4202017,https://clinicaltrials.gov/study/NCT04939701,NCT04939701,Ovarian Cancer|NSCLC|ESCC|Solid Tumors
+448,0.970914913,62.89375922,https://clinicaltrials.gov/study/NCT03676101,NCT03676101,Cervical Cancers|Vulvar Cancer|Vaginal Cancer|CIN1|CIN2|CIN 3|AIS|Invasive Carcinoma|Mild Dysplasia of Vulva|Moderate Dysplasia of Vulva|Vin III|VaIN1|VaIN2|VaIN3|Genital Wart
+449,0.999729786,179.1278624,https://clinicaltrials.gov/study/NCT01514201,NCT01514201,Anaplastic Astrocytoma|Brain Stem Glioma|Childhood Mixed Glioma|Fibrillary Astrocytoma|Giant Cell Glioblastoma|Glioblastoma|Gliosarcoma|Untreated Childhood Anaplastic Astrocytoma|Untreated Childhood Brain Stem Glioma|Untreated Childhood Fibrillary Astrocytoma|Untreated Childhood Giant Cell Glioblastoma|Untreated Childhood Glioblastoma|Untreated Childhood Gliosarcoma
+450,0.998474426,174.0037706,https://clinicaltrials.gov/study/NCT00058201,NCT00058201,Pancreatic Cancer
+451,0.999829371,183.5265781,https://clinicaltrials.gov/study/NCT01861301,NCT01861301,Epithelioid Mesothelioma|Recurrent Malignant Mesothelioma|Sarcomatoid Mesothelioma|Stage II Pleural Mesothelioma|Stage III Pleural Mesothelioma|Stage IV Pleural Mesothelioma
+452,0.994063761,153.0319883,https://clinicaltrials.gov/study/NCT00092001,NCT00092001,"Carcinoma, Non-Small-Cell Lung"
+453,0.985254091,145.0522205,https://clinicaltrials.gov/study/NCT00081601,NCT00081601,Prostate Cancer
+454,0.968997697,65.69583998,https://clinicaltrials.gov/study/NCT00367601,NCT00367601,Lung Cancer
+455,0.999256883,189.7188472,https://clinicaltrials.gov/study/NCT01134601,NCT01134601,Non-Metastatic Adenocarcinoma of the Rectum
+456,0.994402485,156.5447516,https://clinicaltrials.gov/study/NCT01418001,NCT01418001,Sarcoma|Leiomyosarcoma|Malignant Peripheral Nerve Sheath Tumor|Malignant Fibrous|Histiocytoma/Undifferentiated Pleomorphic Sarcoma
+457,0.988461865,150.681582,https://clinicaltrials.gov/study/NCT01639001,NCT01639001,NSCLC (Non-small Cell Lung Cancer)
+458,0.98632588,133.9593497,https://clinicaltrials.gov/study/NCT00192036,NCT00192036,Non Small Cell Lung Cancer
+459,0.90848898,20.56907822,https://clinicaltrials.gov/study/NCT02038036,NCT02038036,Polycythemia Vera
+460,0.998298682,173.5883792,https://clinicaltrials.gov/study/NCT00080834,NCT00080834,Colorectal Cancer
+461,0.998465624,168.2808307,https://clinicaltrials.gov/study/NCT00005834,NCT00005834,Multiple Myeloma
+462,0.997404122,162.9071313,https://clinicaltrials.gov/study/NCT00301834,NCT00301834,Congenital Amegakaryocytic Thrombocytopenia|Diamond-blackfan Anemia|Leukemia|Myelodysplastic Syndromes|Severe Congenital Neutropenia
+463,0.998412636,173.2501459,https://clinicaltrials.gov/study/NCT03052634,NCT03052634,Advanced Breast Cancer
+464,0.996636623,159.6739646,https://clinicaltrials.gov/study/NCT00979134,NCT00979134,Cancer|Advanced Solid Malignancies
+465,0.986397165,135.5807029,https://clinicaltrials.gov/study/NCT00035334,NCT00035334,Secondary (AA) Amyloidosis|Rheumatoid Arthritis|Nephrotic Syndrome|Familial Mediterranean Syndrome|Kidney Diseases|Gastrointestinal Diseases
+466,0.998819008,195.1521241,https://clinicaltrials.gov/study/NCT02767934,NCT02767934,B Acute Lymphoblastic Leukemia|Minimal Residual Disease|Recurrent Acute Lymphoblastic Leukemia|T Acute Lymphoblastic Leukemia
+467,0.962934864,52.5001985,https://clinicaltrials.gov/study/NCT02312934,NCT02312934,Chemo Brain|Chemotherapy-related Cognitive Impairment|Chemo Fog|Breast Cancer|Chemobrain
+468,0.989662519,150.5465632,https://clinicaltrials.gov/study/NCT04194034,NCT04194034,Colorectal Neoplasms
+469,0.992403225,151.718264,https://clinicaltrials.gov/study/NCT03360734,NCT03360734,"Solid Tumor, Adult"
+470,0.998831278,178.5436374,https://clinicaltrials.gov/study/NCT00002601,NCT00002601,Sarcoma
+471,0.981407911,92.09225023,https://clinicaltrials.gov/study/NCT02702401,NCT02702401,Hepatocellular Carcinoma
+472,0.993722744,153.265754,https://clinicaltrials.gov/study/NCT01724801,NCT01724801,Brain Metastasis|Non Small Cell Lung Cancer
+473,0.988243057,151.2981778,https://clinicaltrials.gov/study/NCT00870701,NCT00870701,Soft Tissue Sarcoma of Members
+474,0.98696461,150.4650652,https://clinicaltrials.gov/study/NCT03056001,NCT03056001,"Soft Tissue Sarcoma, Adult|Soft Tissue Sarcoma, Child"
+475,0.999226142,189.7293837,https://clinicaltrials.gov/study/NCT00005801,NCT00005801,Leukemia
+476,0.982094418,101.1580742,https://clinicaltrials.gov/study/NCT02582801,NCT02582801,Breast Cancer
+477,0.860082113,13.98153888,https://clinicaltrials.gov/study/NCT02066636,NCT02066636,Non Small Cell Lung Cancer (NSCLC)
+478,0.788612492,9.743450186,https://clinicaltrials.gov/study/NCT04327934,NCT04327934,Polycystic Ovary Syndrome|Hypertension
+479,0.998860308,175.9596217,https://clinicaltrials.gov/study/NCT02316834,NCT02316834,Fallopian Tube Serous Adenocarcinoma|High Grade Ovarian Serous Adenocarcinoma|Ovarian Mass|Primary Peritoneal Serous Adenocarcinoma|Stage III Fallopian Tube Cancer AJCC v7|Stage III Ovarian Cancer AJCC v6 and v7|Stage III Primary Peritoneal Cancer AJCC v7|Stage IIIA Fallopian Tube Cancer AJCC v7|Stage IIIA Ovarian Cancer AJCC v6 and v7|Stage IIIA Primary Peritoneal Cancer AJCC v7|Stage IIIB Fallopian Tube Cancer AJCC v7|Stage IIIB Ovarian Cancer AJCC v6 and v7|Stage IIIB Primary Peritoneal Cancer AJCC v7|Stage IIIC Fallopian Tube Cancer AJCC v7|Stage IIIC Ovarian Cancer AJCC v6 and v7|Stage IIIC Primary Peritoneal Cancer AJCC v7|Stage IV Fallopian Tube Cancer AJCC v6 and v7|Stage IV Ovarian Cancer AJCC v6 and v7|Stage IV Primary Peritoneal Cancer AJCC v7
+480,0.995508673,158.2391926,https://clinicaltrials.gov/study/NCT01191034,NCT01191034,Metastatic Melanoma
+481,0.997209075,160.4237141,https://clinicaltrials.gov/study/NCT00716534,NCT00716534,Advanced or Metastatic Non-Small Cell Lung Cancer
+482,0.955142354,47.45387913,https://clinicaltrials.gov/study/NCT01309334,NCT01309334,Multiple Myeloma
+483,0.99564824,158.0760408,https://clinicaltrials.gov/study/NCT00006034,NCT00006034,Bladder Cancer
+484,0.981458642,114.464438,https://clinicaltrials.gov/study/NCT00502034,NCT00502034,"Carcinoma, Renal Cell"
+485,0.971522825,82.50541847,https://clinicaltrials.gov/study/NCT01530334,NCT01530334,Lung Cancer
+486,0.992545839,152.4756779,https://clinicaltrials.gov/study/NCT00671034,NCT00671034,Acute Lymphoblastic Leukemia|Adult B Acute Lymphoblastic Leukemia|Childhood B Acute Lymphoblastic Leukemia
+487,0.990650008,151.9996702,https://clinicaltrials.gov/study/NCT00256334,NCT00256334,Colon Cancer|Cancer
+488,0.983309731,115.9200353,https://clinicaltrials.gov/study/NCT01431534,NCT01431534,Solid Tumors
+489,0.998411229,171.6693493,https://clinicaltrials.gov/study/NCT00747734,NCT00747734,Solid Cancers
+490,0.853789129,14.37011059,https://clinicaltrials.gov/study/NCT00575601,NCT00575601,Polycystic Ovary Syndrome
+491,0.98494623,141.0135388,https://clinicaltrials.gov/study/NCT00181701,NCT00181701,Ovarian Carcinoma
+492,0.991419733,151.3422124,https://clinicaltrials.gov/study/NCT02500901,NCT02500901,Metastatic Prostate Cancer
+493,0.94562307,33.32322363,https://clinicaltrials.gov/study/NCT02985801,NCT02985801,Pancreatic Insufficiency|Pancreatic Cancer|Pancreatic Enzyme Abnormality
+494,0.98341759,117.4972152,https://clinicaltrials.gov/study/NCT01572701,NCT01572701,Prostate Cancer
+495,0.998689453,168.3804557,https://clinicaltrials.gov/study/NCT00063401,NCT00063401,Ovarian Cancer|Peritoneal Neoplasms|Fallopian Tube Neoplasms
+496,0.999326352,190.2432933,https://clinicaltrials.gov/study/NCT01473901,NCT01473901,Glioblastoma
+497,0.990417699,151.2076655,https://clinicaltrials.gov/study/NCT01376401,NCT01376401,Multiple Myeloma
+498,0.999044904,183.2183012,https://clinicaltrials.gov/study/NCT00612001,NCT00612001,Brain and Central Nervous System Tumors
+499,0.997585925,163.0089888,https://clinicaltrials.gov/study/NCT00101101,NCT00101101,Lymphoma
+500,0.903015453,15.10854804,https://clinicaltrials.gov/study/NCT01031901,NCT01031901,Tuberous Sclerosis|Neurofibromatoses|Angiofibroma|Neurofibroma
+501,0.999807792,197.4932368,https://clinicaltrials.gov/study/NCT01585701,NCT01585701,Advanced Solid Tumours
+502,0.99814581,168.1571684,https://clinicaltrials.gov/study/NCT00322101,NCT00322101,"Acute Myeloid Leukemia With Multilineage Dysplasia Following Myelodysplastic Syndrome|Acute Myeloid Leukemia/Transient Myeloproliferative Disorder|Adult Acute Myeloid Leukemia in Remission|Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Childhood Acute Myeloid Leukemia in Remission|Childhood Myelodysplastic Syndromes|de Novo Myelodysplastic Syndromes|Myelodysplastic Syndrome With Isolated Del(5q)|Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable|Previously Treated Myelodysplastic Syndromes|Recurrent Adult Acute Myeloid Leukemia|Recurrent Childhood Acute Myeloid Leukemia|Secondary Acute Myeloid Leukemia|Secondary Myelodysplastic Syndromes"
+503,0.973114997,85.23108536,https://clinicaltrials.gov/study/NCT03659136,NCT03659136,Breast Neoplasms
+504,0.986508494,136.002694,https://clinicaltrials.gov/study/NCT02522234,NCT02522234,Neutropenia
+505,0.999595837,196.2485123,https://clinicaltrials.gov/study/NCT00305734,NCT00305734,Recurrent Nasopharyngeal Cancer|Stage IV Nasopharyngeal Cancer
+506,0.979315532,97.6873954,https://clinicaltrials.gov/study/NCT01548534,NCT01548534,Metastatic Breast Cancer|Progesterone Receptor Positive Tumor|Estrogen Receptor Positive Tumor|HER-2 Negative Tumor
+507,0.943122829,32.18423367,https://clinicaltrials.gov/study/NCT00411034,NCT00411034,"Analgesics, Opioid|Pain"
+508,0.996446826,158.0450917,https://clinicaltrials.gov/study/NCT02270034,NCT02270034,Glioblastoma Multiforme (Grade IV) of Cerebellum
+509,0.9992492,193.3319633,https://clinicaltrials.gov/study/NCT00003434,NCT00003434,Pancreatic Cancer
+510,0.997547223,162.6714659,https://clinicaltrials.gov/study/NCT04728334,NCT04728334,Neoplasms Malignant
+511,0.995376645,157.4168581,https://clinicaltrials.gov/study/NCT03011034,NCT03011034,Myelodysplastic Syndromes
+512,0.99673274,158.0185871,https://clinicaltrials.gov/study/NCT01158534,NCT01158534,Renal Cell Cancer|Stage IV Renal Cell Cancer
+513,0.988113186,151.0523626,https://clinicaltrials.gov/study/NCT01118234,NCT01118234,Chronic Lymphocytic Leukemia
+514,0.997755917,164.6196402,https://clinicaltrials.gov/study/NCT01481701,NCT01481701,Ovarian Carcinoma|Relapse
+515,0.997676355,162.9628607,https://clinicaltrials.gov/study/NCT03734601,NCT03734601,Acute Myeloid Leukemia|Myelodysplastic Syndromes|Myeloproliferative Disorder|Chronic Lymphocytic Leukemia|B-cell Lymphoma|T-cell Lymphoma|Non Hodgkin Lymphoma|Hodgkin Lymphoma|Chronic Myelomonocytic Leukemia
+516,0.997602036,161.0265538,https://clinicaltrials.gov/study/NCT00088101,NCT00088101,Hematological Malignancies|Leukemia|Lymphoma|Metastatic or Unresectable Solid Tumors
+517,0.881462544,15.83604342,https://clinicaltrials.gov/study/NCT01538901,NCT01538901,Actinic Keratoses
+518,0.999529419,186.6085787,https://clinicaltrials.gov/study/NCT00509301,NCT00509301,Recurrent Glioblastoma Multiforme
+519,0.877861332,14.27337374,https://clinicaltrials.gov/study/NCT03407001,NCT03407001,Cirrhosis
+520,0.899466852,20.63582253,https://clinicaltrials.gov/study/NCT02764801,NCT02764801,"Hepatocellular Carcinoma|Chemoembolization, Therapeutic"
+521,0.992256961,151.8550523,https://clinicaltrials.gov/study/NCT01492101,NCT01492101,Locally Recurrent Breast Cancer|Metastatic Breast Cancer
+522,0.996837449,156.5627911,https://clinicaltrials.gov/study/NCT02456701,NCT02456701,Thyroid Cancer
+523,0.988060633,145.4205287,https://clinicaltrials.gov/study/NCT00689936,NCT00689936,Multiple Myeloma
+524,0.630582376,4.745677682,https://clinicaltrials.gov/study/NCT00502736,NCT00502736,Pain; Bone Neoplasms; Neoplasm Metastasis
+525,0.999094297,196.8636084,https://clinicaltrials.gov/study/NCT00019136,NCT00019136,Ovarian Cancer
+526,0.997558041,162.2716906,https://clinicaltrials.gov/study/NCT00656734,NCT00656734,Kidney Cancer
+527,0.997172825,161.7593835,https://clinicaltrials.gov/study/NCT01711034,NCT01711034,Solid Tumors
+528,0.990035273,151.4269743,https://clinicaltrials.gov/study/NCT00905034,NCT00905034,"Leukemia, Lymphocytic, Acute"
+529,0.999298604,184.4617604,https://clinicaltrials.gov/study/NCT00096434,NCT00096434,Male Breast Cancer|Recurrent Breast Cancer|Stage IV Breast Cancer
+530,0.988615772,150.6271815,https://clinicaltrials.gov/study/NCT04693234,NCT04693234,Cervical Cancer
+531,0.994420924,153.5242121,https://clinicaltrials.gov/study/NCT00264134,NCT00264134,Non-small Cell Lung Cancer|Extensive Stage Unresectable
+532,0.9983201,171.2740909,https://clinicaltrials.gov/study/NCT05144334,NCT05144334,Advanced Solid Tumor|Non Hodgkin Lymphoma|Acute Myeloid Leukemia
+533,0.99972878,193.6782116,https://clinicaltrials.gov/study/NCT02101034,NCT02101034,"Carcinoma, Squamous Cell of Head and Neck"
+534,0.999725599,188.2444888,https://clinicaltrials.gov/study/NCT01298401,NCT01298401,Pancreatic Cancer
+535,0.737596247,6.035489055,https://clinicaltrials.gov/study/NCT00628901,NCT00628901,Leiomyoma|Uterine Fibroids|Uterine Neoplasms|Menorrhagia|Leiomyomatosis
+536,0.989543179,151.5752204,https://clinicaltrials.gov/study/NCT04194801,NCT04194801,Hepatocellular Carcinoma
+537,0.997489023,162.4492396,https://clinicaltrials.gov/study/NCT02984501,NCT02984501,Pancreatic Cancer
+538,0.981103677,109.6871073,https://clinicaltrials.gov/study/NCT00192101,NCT00192101,Metastatic Breast Cancer
+539,0.988611655,150.1230766,https://clinicaltrials.gov/study/NCT01626001,NCT01626001,Esophagus Cancer|Lung Cancer
+540,0.986994142,150.3386565,https://clinicaltrials.gov/study/NCT02186301,NCT02186301,Non-Small Cell Lung Cancer
+541,0.996368032,157.231591,https://clinicaltrials.gov/study/NCT00622401,NCT00622401,Breast Cancer
+542,0.971112313,54.41212131,https://clinicaltrials.gov/study/NCT01719536,NCT01719536,NSCLC
+543,0.997653232,164.6926475,https://clinicaltrials.gov/study/NCT01610336,NCT01610336,Non-small Cell Lung Cancer
+544,0.99487092,155.5592032,https://clinicaltrials.gov/study/NCT00232934,NCT00232934,Multiple Myeloma
+545,0.979792384,95.8168247,https://clinicaltrials.gov/study/NCT01228734,NCT01228734,Metastatic Colorectal Cancer
+546,0.999289485,183.5723842,https://clinicaltrials.gov/study/NCT00075634,NCT00075634,"Recurrent Neuroblastoma|Unspecified Childhood Solid Tumor, Protocol Specific"
+547,0.929827266,25.46513993,https://clinicaltrials.gov/study/NCT04936334,NCT04936334,Prostate Cancer
+548,0.843258714,12.44676139,https://clinicaltrials.gov/study/NCT00958334,NCT00958334,Uterine Fibroids
+549,0.875926321,14.62279617,https://clinicaltrials.gov/study/NCT03349034,NCT03349034,Head and Neck Cancer|Free Tissue Transfer
+550,0.987397855,129.6057418,https://clinicaltrials.gov/study/NCT04131634,NCT04131634,Urothelial Cancer
+551,0.992998798,152.2796877,https://clinicaltrials.gov/study/NCT03499834,NCT03499834,Non-small Cell Lung Cancer (NSCLC) Stage IV
+552,0.996861479,159.6042675,https://clinicaltrials.gov/study/NCT02527434,NCT02527434,Urothelial Bladder Cancer|Triple-negative Breast Cancer|Pancreatic Ductal Adenocarcinoma
+553,0.985880488,130.531342,https://clinicaltrials.gov/study/NCT02016534,NCT02016534,Stomach Neoplasms
+554,0.842080834,13.93372574,https://clinicaltrials.gov/study/NCT02666534,NCT02666534,Microinvasive Squamous Cell Carcinoma
+555,0.992318786,151.9336038,https://clinicaltrials.gov/study/NCT01856101,NCT01856101,Carcinoma Transitional Cell
+556,0.998859928,188.63908,https://clinicaltrials.gov/study/NCT01975701,NCT01975701,Recurrent Glioblastoma or Other Glioma Subtypes
+557,0.999576477,191.4415751,https://clinicaltrials.gov/study/NCT00004901,NCT00004901,Head and Neck Cancer
+558,0.99642168,157.5296023,https://clinicaltrials.gov/study/NCT00089401,NCT00089401,Colorectal Cancer|Metastatic Cancer
+559,0.985597199,121.4217879,https://clinicaltrials.gov/study/NCT00283101,NCT00283101,"Leukemia, Lymphocytic, Chronic"
+560,0.993323219,152.8454815,https://clinicaltrials.gov/study/NCT01009801,NCT01009801,Liver Cancer
+561,0.996804939,160.0301132,https://clinicaltrials.gov/study/NCT01288534,NCT01288534,Prostate Cancer
+562,0.977380808,107.0074424,https://clinicaltrials.gov/study/NCT01990534,NCT01990534,Hodgkin Lymphoma
+563,0.993982892,153.4657215,https://clinicaltrials.gov/study/NCT00895934,NCT00895934,Adult Acute Megakaryoblastic Leukemia (M7)|Adult Acute Minimally Differentiated Myeloid Leukemia (M0)|Adult Acute Monoblastic Leukemia (M5a)|Adult Acute Monocytic Leukemia (M5b)|Adult Acute Myeloblastic Leukemia With Maturation (M2)|Adult Acute Myeloblastic Leukemia Without Maturation (M1)|Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Adult Acute Myelomonocytic Leukemia (M4)|Adult Erythroleukemia (M6a)|Adult Pure Erythroid Leukemia (M6b)|Recurrent Adult Acute Myeloid Leukemia
+564,0.919110671,22.59031772,https://clinicaltrials.gov/study/NCT03130634,NCT03130634,Metastatic Colorectal Cancer
+565,0.983740641,99.44052449,https://clinicaltrials.gov/study/NCT00608634,NCT00608634,Precancerous Condition
+566,0.991368419,150.7184447,https://clinicaltrials.gov/study/NCT00522834,NCT00522834,Melanoma
+567,0.984825617,115.0404013,https://clinicaltrials.gov/study/NCT03302234,NCT03302234,"Carcinoma, Non-Small-Cell Lung"
+568,0.989224991,151.5182504,https://clinicaltrials.gov/study/NCT00862134,NCT00862134,Non-Small Cell Lung Cancer
+569,0.999406082,201.5418359,https://clinicaltrials.gov/study/NCT02158234,NCT02158234,Squamous Cell Carcinoma of the Head and Neck
+570,0.991586042,150.6761262,https://clinicaltrials.gov/study/NCT01854034,NCT01854034,Non Small Cell Lung Cancer
+571,0.996104158,158.0228415,https://clinicaltrials.gov/study/NCT02972034,NCT02972034,Neoplasms|Colorectal Cancer
+572,0.914098977,24.95485228,https://clinicaltrials.gov/study/NCT00132301,NCT00132301,Prostate Cancer
+573,0.762087293,6.2956352,https://clinicaltrials.gov/study/NCT03122301,NCT03122301,Hot Flashes|Hot Flushes|Vasomotor Symptoms
+574,0.935279843,30.84059586,https://clinicaltrials.gov/study/NCT01096901,NCT01096901,Obesity|Overweight
+575,0.99767014,164.3119306,https://clinicaltrials.gov/study/NCT00522301,NCT00522301,Fallopian Tube Cancer|Ovarian Cancer|Primary Peritoneal Cavity Cancer
+576,0.995316941,155.7384203,https://clinicaltrials.gov/study/NCT03070301,NCT03070301,Neuroendocrine Tumors
+577,0.991315887,152.2120675,https://clinicaltrials.gov/study/NCT03792841,NCT03792841,Metastatic Castration-resistant Prostate Cancer|Prostate Cancer
+578,0.969584404,52.27656111,https://clinicaltrials.gov/study/NCT01985841,NCT01985841,Breast Cancer
+579,0.991840361,151.4602329,https://clinicaltrials.gov/study/NCT00054041,NCT00054041,Cervical Cancer|Cervical Intraepithelial Neoplasia Grade 3|Human Papilloma Virus Infection
+580,0.994185767,152.7263779,https://clinicaltrials.gov/study/NCT03727841,NCT03727841,Anaplastic Ependymoma|Ependymoma|Ependymomas
+581,0.967005196,55.18314764,https://clinicaltrials.gov/study/NCT03627741,NCT03627741,Fibromatosis
+582,0.997844943,160.232841,https://clinicaltrials.gov/study/NCT01078441,NCT01078441,Refractory Multiple Myeloma
+583,0.647486092,4.974880481,https://clinicaltrials.gov/study/NCT04532736,NCT04532736,Nasal Polyposis
+584,0.976442249,67.37661844,https://clinicaltrials.gov/study/NCT02998736,NCT02998736,Abdominal Cancer
+585,0.994687271,155.2145479,https://clinicaltrials.gov/study/NCT01254136,NCT01254136,Breast Cancer
+586,0.993803166,153.9996738,https://clinicaltrials.gov/study/NCT03344536,NCT03344536,Breast Cancer
+587,0.997140089,162.8477988,https://clinicaltrials.gov/study/NCT01014936,NCT01014936,"Patients With Solid Tumors, Either Refractory to Standard Therapy or for Which no Effective Standard Therapy is Available"
+588,0.989094742,150.7616035,https://clinicaltrials.gov/study/NCT01736436,NCT01736436,Myelodysplastic Syndrome
+589,0.964878329,59.2843391,https://clinicaltrials.gov/study/NCT04805736,NCT04805736,Breast Cancer
+590,0.625906587,5.522668677,https://clinicaltrials.gov/study/NCT04955236,NCT04955236,Posterior Fossa Tumor
+591,0.593922892,4.322023379,https://clinicaltrials.gov/study/NCT02726828,NCT02726828,Postoperative Pain
+592,0.99693599,158.0650894,https://clinicaltrials.gov/study/NCT02366728,NCT02366728,"Glioblastoma|Astrocytoma, Grade IV|Giant Cell Glioblastoma|Glioblastoma Multiforme"
+593,0.993577495,152.2293796,https://clinicaltrials.gov/study/NCT03106428,NCT03106428,Acute Myeloid Leukemia|Multiple Myeloma|Diffuse Large B-cell Lymphoma
+594,0.998251386,167.3784044,https://clinicaltrials.gov/study/NCT00356928,NCT00356928,Leukemia|Myelodysplastic Syndromes
+595,0.988871083,150.7130232,https://clinicaltrials.gov/study/NCT01911728,NCT01911728,Pharmacokinetics of MDV3100|Castration Resistant Prostate Cancer (CRPC)
+596,0.999112948,188.9333017,https://clinicaltrials.gov/study/NCT00033241,NCT00033241,"Pancreatic Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+597,0.936378117,35.12145387,https://clinicaltrials.gov/study/NCT01387841,NCT01387841,Breast Cancer|Malignant Female Reproductive System Neoplasm|Lymphomas|Chemotherapy-induced Nausea and Vomiting
+598,0.994736873,155.513518,https://clinicaltrials.gov/study/NCT00809341,NCT00809341,Non-Hodgkin's Lymphoma
+599,0.999765362,183.4943244,https://clinicaltrials.gov/study/NCT02049541,NCT02049541,Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue|Nodal Marginal Zone B-cell Lymphoma|Recurrent Grade 1 Follicular Lymphoma|Recurrent Grade 2 Follicular Lymphoma|Recurrent Grade 3 Follicular Lymphoma|Recurrent Mantle Cell Lymphoma|Recurrent Marginal Zone Lymphoma|Splenic Marginal Zone Lymphoma|Waldenström Macroglobulinemia
+600,0.999023006,179.1503757,https://clinicaltrials.gov/study/NCT00226941,NCT00226941,Rectal Cancer|Colo-rectal Cancer
+601,0.983078287,143.7694651,https://clinicaltrials.gov/study/NCT01099436,NCT01099436,Breast Cancer
+602,0.994510499,153.5285453,https://clinicaltrials.gov/study/NCT04262336,NCT04262336,Ototoxicity
+603,0.819392884,9.703395835,https://clinicaltrials.gov/study/NCT00800436,NCT00800436,Breast Cancer
+604,0.990790441,151.5349869,https://clinicaltrials.gov/study/NCT00862836,NCT00862836,Ovarian Cancer
+605,0.993053814,153.2581689,https://clinicaltrials.gov/study/NCT03132636,NCT03132636,"Carcinoma, Basal Cell"
+606,0.994781144,155.6885065,https://clinicaltrials.gov/study/NCT04742036,NCT04742036,Advanced Solid Tumours
+607,0.998242057,175.3308798,https://clinicaltrials.gov/study/NCT01058434,NCT01058434,Relapsed or Refractory Multiple Myeloma
+608,0.991449343,151.9115865,https://clinicaltrials.gov/study/NCT02229734,NCT02229734,Prostate Cancer
+609,0.998771833,187.9127454,https://clinicaltrials.gov/study/NCT00107536,NCT00107536,Adult Primary Hepatocellular Carcinoma|Advanced Adult Primary Liver Cancer|Localized Unresectable Adult Primary Liver Cancer|Recurrent Adult Primary Liver Cancer|Recurrent Extrahepatic Bile Duct Cancer|Recurrent Gallbladder Cancer|Unresectable Extrahepatic Bile Duct Cancer|Unresectable Gallbladder Cancer
+610,0.992666197,151.4967961,https://clinicaltrials.gov/study/NCT01358734,NCT01358734,Acute Myeloid Leukemia|Acute Myelogenous Leukemia
+611,0.919805227,19.27523986,https://clinicaltrials.gov/study/NCT02077634,NCT02077634,Prostate Cancer
+612,0.988095992,146.4746859,https://clinicaltrials.gov/study/NCT00591734,NCT00591734,Metastatic Melanoma
+613,0.999489767,180.9111228,https://clinicaltrials.gov/study/NCT00002634,NCT00002634,Neuroblastoma
+614,0.995715516,157.5447369,https://clinicaltrials.gov/study/NCT00048334,NCT00048334,Neoplasms
+615,0.928129927,30.81854519,https://clinicaltrials.gov/study/NCT02526134,NCT02526134,Oesophageal Cancer|Rectal Cancer
+616,0.982491921,99.97740299,https://clinicaltrials.gov/study/NCT00452634,NCT00452634,Small Cell Lung Cancer
+617,0.986067745,136.8628452,https://clinicaltrials.gov/study/NCT00832234,NCT00832234,Waldenstroms Macroglobulinemia
+618,0.997741726,166.335325,https://clinicaltrials.gov/study/NCT00313534,NCT00313534,Prostate Cancer
+619,0.999467486,182.8160896,https://clinicaltrials.gov/study/NCT01419834,NCT01419834,Neuroblastoma
+620,0.974886538,75.6774016,https://clinicaltrials.gov/study/NCT04676334,NCT04676334,Metastatic Castration-Resistant Prostate Cancer|Ovarian Cancer|Epithelial Ovarian Cancer|Fallopian Tube Cancer|Peritoneal Cancer|Other Solid Tumor
+621,0.690403119,5.485811729,https://clinicaltrials.gov/study/NCT00210834,NCT00210834,Anemia
+622,0.994952582,156.0981519,https://clinicaltrials.gov/study/NCT02186834,NCT02186834,Multiple Myeloma
+623,0.992821379,150.8018572,https://clinicaltrials.gov/study/NCT01453101,NCT01453101,Multiple Myeloma
+624,0.99745612,157.6798775,https://clinicaltrials.gov/study/NCT02325401,NCT02325401,Head and Neck Cancer
+625,0.995642263,158.4586102,https://clinicaltrials.gov/study/NCT03011528,NCT03011528,Ewing Sarcoma Family of Tumors
+626,0.998402403,175.2073997,https://clinicaltrials.gov/study/NCT00052728,NCT00052728,Breast Cancer
+627,0.998338376,171.3094796,https://clinicaltrials.gov/study/NCT03595228,NCT03595228,Chordoma
+628,0.791881492,8.980141593,https://clinicaltrials.gov/study/NCT01836328,NCT01836328,Pain
+629,0.991494241,152.3790715,https://clinicaltrials.gov/study/NCT00321828,NCT00321828,Colorectal Cancer
+630,0.982750707,117.6056279,https://clinicaltrials.gov/study/NCT00411541,NCT00411541,Acute Lymphoblastic Leukemia
+631,0.862318848,14.04674998,https://clinicaltrials.gov/study/NCT00252941,NCT00252941,Prostate Cancer|Post-Brachytherapy Bladder Outlet Obstruction
+632,0.987193545,128.7361257,https://clinicaltrials.gov/study/NCT03622541,NCT03622541,FLT3-ITD Mutation|AML
+633,0.937696983,29.04542638,https://clinicaltrials.gov/study/NCT00273741,NCT00273741,Asthenia|Neoplasms
+634,0.993355098,153.518666,https://clinicaltrials.gov/study/NCT00663741,NCT00663741,Gastric Cancer
+635,0.952500196,45.98641503,https://clinicaltrials.gov/study/NCT00190541,NCT00190541,Rectal Neoplasms
+636,0.997483736,162.1016813,https://clinicaltrials.gov/study/NCT01317641,NCT01317641,Prostate Cancer
+637,0.998602955,177.2781595,https://clinicaltrials.gov/study/NCT00603941,NCT00603941,Anaplastic Thyroid Cancer
+638,0.998873263,182.2440479,https://clinicaltrials.gov/study/NCT01325441,NCT01325441,Cancer
+639,0.995928517,156.685092,https://clinicaltrials.gov/study/NCT02265341,NCT02265341,Malignant Hepatobiliary Neoplasm
+640,0.993402029,152.1665951,https://clinicaltrials.gov/study/NCT01829841,NCT01829841,Renal Cell Cancer|Metastatic Renal Cell Cancer
+641,0.997516756,161.9857619,https://clinicaltrials.gov/study/NCT01196741,NCT01196741,Ovarian Cancer|Fallopian Tube Cancer|Primary Peritoneal Cancer
+642,0.998590018,175.8201147,https://clinicaltrials.gov/study/NCT02160041,NCT02160041,Solid Tumor|Hematologic Malignancies
+643,0.837430829,11.37760077,https://clinicaltrials.gov/study/NCT00676936,NCT00676936,Cancer|Pain
+644,0.998731464,182.708498,https://clinicaltrials.gov/study/NCT00004241,NCT00004241,"AIDS-related Peripheral/Systemic Lymphoma|AIDS-related Primary CNS Lymphoma|Anaplastic Large Cell Lymphoma|Angioimmunoblastic T-cell Lymphoma|Chondrosarcoma|Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue|Intraocular Lymphoma|Metastatic Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor|Metastatic Osteosarcoma|Nodal Marginal Zone B-cell Lymphoma|Ovarian Sarcoma|Primary Central Nervous System Non-Hodgkin Lymphoma|Recurrent Adult Burkitt Lymphoma|Recurrent Adult Diffuse Large Cell Lymphoma|Recurrent Adult Diffuse Mixed Cell Lymphoma|Recurrent Adult Diffuse Small Cleaved Cell Lymphoma|Recurrent Adult Hodgkin Lymphoma|Recurrent Adult Immunoblastic Large Cell Lymphoma|Recurrent Adult Lymphoblastic Lymphoma|Recurrent Adult Soft Tissue Sarcoma|Recurrent Adult T-cell Leukemia/Lymphoma|Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma|Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor|Recurrent Grade 1 Follicular Lymphoma|Recurrent Grade 2 Follicular Lymphoma|Recurrent Grade 3 Follicular Lymphoma|Recurrent Mantle Cell Lymphoma|Recurrent Marginal Zone Lymphoma|Recurrent Mycosis Fungoides/Sezary Syndrome|Recurrent Osteosarcoma|Recurrent Small Lymphocytic Lymphoma|Recurrent Uterine Sarcoma|Small Intestine Lymphoma|Splenic Marginal Zone Lymphoma|Stage IV Adult Burkitt Lymphoma|Stage IV Adult Diffuse Large Cell Lymphoma|Stage IV Adult Diffuse Mixed Cell Lymphoma|Stage IV Adult Diffuse Small Cleaved Cell Lymphoma|Stage IV Adult Hodgkin Lymphoma|Stage IV Adult Immunoblastic Large Cell Lymphoma|Stage IV Adult Lymphoblastic Lymphoma|Stage IV Adult Soft Tissue Sarcoma|Stage IV Adult T-cell Leukemia/Lymphoma|Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma|Stage IV Grade 1 Follicular Lymphoma|Stage IV Grade 2 Follicular Lymphoma|Stage IV Grade 3 Follicular Lymphoma|Stage IV Mantle Cell Lymphoma|Stage IV Marginal Zone Lymphoma|Stage IV Mycosis Fungoides/Sezary Syndrome|Stage IV Small Lymphocytic Lymphoma|Stage IV Uterine Sarcoma|Unspecified Adult Solid Tumor, Protocol Specific"
+645,0.977877354,84.69595207,https://clinicaltrials.gov/study/NCT00184041,NCT00184041,Acute Lymphoblastic Leukemia
+646,0.992219483,151.4881732,https://clinicaltrials.gov/study/NCT04099641,NCT04099641,Gastric Cancer|GastroEsophageal Cancer
+647,0.988152498,150.8396252,https://clinicaltrials.gov/study/NCT02096341,NCT02096341,Malignant Solid Tumor|Lymphomas
+648,0.94542973,35.60382895,https://clinicaltrials.gov/study/NCT01133041,NCT01133041,Diminutive Colon Polyp|Adenomatous Polyp|Hyperplastic Polyp|Colonoscopy
+649,0.99796401,164.7665672,https://clinicaltrials.gov/study/NCT00727441,NCT00727441,Pancreatic Cancer
+650,0.987094526,150.0197574,https://clinicaltrials.gov/study/NCT00476541,NCT00476541,Acute Myeloid Leukemia
+651,0.991493394,150.8379452,https://clinicaltrials.gov/study/NCT00004941,NCT00004941,Crohn's Disease
+652,0.98132575,89.25574662,https://clinicaltrials.gov/study/NCT05476341,NCT05476341,Rectal Cancer|Lung Cancer|Ovarian Cancer|Cervical Cancer|Glioblastoma
+653,0.998049964,166.1215924,https://clinicaltrials.gov/study/NCT02702141,NCT02702141,Non-Hodgkin Lymphoma|DLBCL|Diffuse Large B-cell Lymphoma|Grade 3 Follicular Lymphoma
+654,0.999690504,201.4721556,https://clinicaltrials.gov/study/NCT00002941,NCT00002941,Lymphoma
+655,0.99768183,164.9404336,https://clinicaltrials.gov/study/NCT00389441,NCT00389441,Thyroid Neoplasms
+656,0.998762853,184.2175943,https://clinicaltrials.gov/study/NCT00003941,NCT00003941,Mediastinal Cancer|Metastatic Cancer|Testicular Germ Cell Tumor
+657,0.988760478,150.0940644,https://clinicaltrials.gov/study/NCT01715441,NCT01715441,Metastatic Colorectal Cancer Patients With KRAS Mutated Tumors
+658,0.919408397,24.22013232,https://clinicaltrials.gov/study/NCT02158936,NCT02158936,Thrombocytopaenia
+659,0.783777286,7.556587391,https://clinicaltrials.gov/study/NCT01229436,NCT01229436,Dupuytren's Contracture
+660,0.988273278,150.2265567,https://clinicaltrials.gov/study/NCT00887536,NCT00887536,Breast Cancer
+661,0.935986634,38.78611821,https://clinicaltrials.gov/study/NCT01129336,NCT01129336,First or Second Line HER2-negative Breast Cancer|Metastatic Disease Without Bone Metastasis
+662,0.991473679,151.4431285,https://clinicaltrials.gov/study/NCT00866736,NCT00866736,Chronic Myeloid Leukemia
+663,0.981143745,116.9606348,https://clinicaltrials.gov/study/NCT00591136,NCT00591136,Solid Tumors
+664,0.998446841,174.7898222,https://clinicaltrials.gov/study/NCT00214136,NCT00214136,Prostate Cancer
+665,0.998158997,166.5125986,https://clinicaltrials.gov/study/NCT00609336,NCT00609336,Adenocarcinoma of the Pancreas|Stage IA Pancreatic Cancer|Stage IB Pancreatic Cancer|Stage IIA Pancreatic Cancer|Stage IIB Pancreatic Cancer
+666,0.998950409,191.605419,https://clinicaltrials.gov/study/NCT00193336,NCT00193336,Lung Cancer
+667,0.996734779,157.9996891,https://clinicaltrials.gov/study/NCT01689636,NCT01689636,Ovarian Cancer|Healthy Volunteers
+668,0.993677682,153.1477522,https://clinicaltrials.gov/study/NCT01793636,NCT01793636,Metastatic Clear Cell Renal Carcinoma
+669,0.749985885,6.103497198,https://clinicaltrials.gov/study/NCT01335828,NCT01335828,Thyroid Nodules
+670,0.949940772,32.43152411,https://clinicaltrials.gov/study/NCT04797728,NCT04797728,Breast Cancer|Hormone Receptor Positive Breast Carcinoma
+671,0.976856624,95.50783025,https://clinicaltrials.gov/study/NCT03972228,NCT03972228,Lung Tumor|Lung Cancer
+672,0.969345241,57.43562655,https://clinicaltrials.gov/study/NCT00280241,NCT00280241,Chronic Lymphocytic Leukemia
+673,0.880708829,13.37014411,https://clinicaltrials.gov/study/NCT03803241,NCT03803241,Colorectal Cancer
+674,0.998635131,172.7952459,https://clinicaltrials.gov/study/NCT00785941,NCT00785941,Advanced Solid Tumors
+675,0.99072856,151.3563533,https://clinicaltrials.gov/study/NCT00189241,NCT00189241,Basal Cell Carcinoma
+676,0.885255531,17.56586058,https://clinicaltrials.gov/study/NCT00306241,NCT00306241,"Infections, Papillomavirus"
+677,0.994522001,153.0518404,https://clinicaltrials.gov/study/NCT01663441,NCT01663441,Chemotherapy-induced Thrombocytopenia
+678,0.991274274,151.5048876,https://clinicaltrials.gov/study/NCT04069936,NCT04069936,"Non Small Cell Lung Cancer|Lung Cancer|Lung Cancer Metastatic|Lung Cancer, Non-small Cell|Non Small Cell Lung Cancer Metastatic|NSCLC|Non-small Cell Lung Cancer|Non-small Cell Lung Cancer Metastatic"
+679,0.938944552,28.8687394,https://clinicaltrials.gov/study/NCT03200236,NCT03200236,"Smoking, Tobacco|Tobacco-Related Carcinoma|Tobacco Use|Lung Cancer Screening"
+680,0.615823507,3.421147067,https://clinicaltrials.gov/study/NCT00994136,NCT00994136,"Oncology, Medical|Hematologic Disease"
+681,0.645815692,5.281034992,https://clinicaltrials.gov/study/NCT01783236,NCT01783236,Lung Tumor
+682,0.97496125,59.33913968,https://clinicaltrials.gov/study/NCT00520936,NCT00520936,"Osteosarcoma|Medulloblastoma|Sarcoma, Ewing's|Neuroblastoma (Measurable Disease)|Neuroblastoma (Metaiodobenzylguanidine|Positive Evaluable)|Rhabdomyosarcoma|Ependymoma|Non-brainstem High-grade Glioma"
+683,0.991278577,151.3568333,https://clinicaltrials.gov/study/NCT00558636,NCT00558636,"Carcinoma, Non-Small-Cell Lung"
+684,0.99877472,176.8684988,https://clinicaltrials.gov/study/NCT03776136,NCT03776136,Advanced Melanoma
+685,0.999511543,192.8650241,https://clinicaltrials.gov/study/NCT00045136,NCT00045136,Multiple Myeloma and Plasma Cell Neoplasm
+686,0.983868698,95.50673915,https://clinicaltrials.gov/study/NCT01404936,NCT01404936,Lymphoma
+687,0.998039532,168.3544988,https://clinicaltrials.gov/study/NCT01349036,NCT01349036,Recurrent Glioblastoma
+688,0.996207064,156.2432544,https://clinicaltrials.gov/study/NCT01146834,NCT01146834,Multiple Myeloma
+689,0.99538065,156.092959,https://clinicaltrials.gov/study/NCT00923234,NCT00923234,Myelodysplastic Syndromes|Acute Myelogenous Leukemia
+690,0.999379228,190.6710169,https://clinicaltrials.gov/study/NCT00074334,NCT00074334,Brain and Central Nervous System Tumors
+691,0.996299043,158.3527262,https://clinicaltrials.gov/study/NCT00390234,NCT00390234,Fallopian Tube Cancer|Female Reproductive Cancer|Ovarian Carcinosarcoma|Ovarian Sarcoma|Recurrent Ovarian Epithelial Cancer|Recurrent Uterine Sarcoma|Stage III Ovarian Epithelial Cancer|Stage III Uterine Sarcoma|Stage IV Ovarian Epithelial Cancer|Stage IV Uterine Sarcoma|Uterine Carcinosarcoma|Uterine Leiomyosarcoma
+692,0.990454475,151.7236181,https://clinicaltrials.gov/study/NCT00758134,NCT00758134,NON-SMALL CELL LUNG CANCER
+693,0.999349325,193.9519156,https://clinicaltrials.gov/study/NCT00003334,NCT00003334,Endometrial Cancer|Fallopian Tube Cancer|Ovarian Cancer|Sarcoma
+694,0.977463265,78.4549368,https://clinicaltrials.gov/study/NCT01709734,NCT01709734,Prostate Cancer
+695,0.999568299,190.1099891,https://clinicaltrials.gov/study/NCT00021034,NCT00021034,Fallopian Tube Cancer|Ovarian Cancer|Primary Peritoneal Cavity Cancer
+696,0.997000282,159.0042342,https://clinicaltrials.gov/study/NCT00906334,NCT00906334,Myelodysplastic Syndrome
+697,0.998160353,170.8022461,https://clinicaltrials.gov/study/NCT03618134,NCT03618134,Clinical Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC (American Joint Committee on Cancer) v8|Clinical Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Human Papillomavirus Positive|Oropharyngeal Squamous Cell Carcinoma|p16 Positive Neoplastic Cells Present|Pathologic Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Pathologic Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Pathologic Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8
+698,0.984764278,105.9265644,https://clinicaltrials.gov/study/NCT00034034,NCT00034034,Colorectal Neoplasms
+699,0.998299209,169.6238215,https://clinicaltrials.gov/study/NCT01345201,NCT01345201,Solid Tumors
+700,0.997704078,162.1386006,https://clinicaltrials.gov/study/NCT00086801,NCT00086801,Lymphoma
+701,0.999475447,189.1663053,https://clinicaltrials.gov/study/NCT00924001,NCT00924001,"Melanoma|Malignant Melanoma|Melanoma, Experimental"
+702,0.999556686,182.8809406,https://clinicaltrials.gov/study/NCT02049801,NCT02049801,Adult Acute Minimally Differentiated Myeloid Leukemia (M0)|Adult Acute Monoblastic Leukemia (M5a)|Adult Acute Monocytic Leukemia (M5b)|Adult Acute Myeloblastic Leukemia With Maturation (M2)|Adult Acute Myeloblastic Leukemia Without Maturation (M1)|Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(15;17)(q22;q12)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Adult Acute Myelomonocytic Leukemia (M4)|Adult Erythroleukemia (M6a)|Adult Pure Erythroid Leukemia (M6b)|Recurrent Adult Acute Myeloid Leukemia
+703,0.994518651,154.0535141,https://clinicaltrials.gov/study/NCT00570401,NCT00570401,Lung Cancer
+704,0.994982917,154.4774387,https://clinicaltrials.gov/study/NCT00276601,NCT00276601,Leukemia
+705,0.982800197,123.7394299,https://clinicaltrials.gov/study/NCT02296801,NCT02296801,Breast Cancer|Breast Carcinoma|Breast Tumors
+706,0.994314455,153.9235906,https://clinicaltrials.gov/study/NCT01521936,NCT01521936,Adult Acute Megakaryoblastic Leukemia (M7)|Adult Acute Monoblastic Leukemia (M5a)|Adult Acute Monocytic Leukemia (M5b)|Adult Acute Myeloblastic Leukemia With Maturation (M2)|Adult Acute Myeloblastic Leukemia Without Maturation (M1)|Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities|Adult Acute Myeloid Leukemia With Del(5q)|Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)|Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)|Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)|Adult Acute Myelomonocytic Leukemia (M4)|Adult Erythroleukemia (M6a)|Adult Pure Erythroid Leukemia (M6b)|Untreated Adult Acute Myeloid Leukemia
+707,0.993178095,154.0370485,https://clinicaltrials.gov/study/NCT00395434,NCT00395434,Tumors
+708,0.94793188,41.16867118,https://clinicaltrials.gov/study/NCT00984334,NCT00984334,Chronic Pain|Opioid Induced Constipation
+709,0.974499355,87.65421757,https://clinicaltrials.gov/study/NCT04208334,NCT04208334,Cancer Cachexia|Head and Neck Cancer|Head and Neck Neoplasms
+710,0.999294191,188.635341,https://clinicaltrials.gov/study/NCT04958434,NCT04958434,Locally Advanced or Metastatic Cancers|Metastatic Human Papillomavirus-Related Malignant Neoplasm
+711,0.995158691,156.4613158,https://clinicaltrials.gov/study/NCT01496534,NCT01496534,Solid Tumors|Bladder Cancer
+712,0.990544312,151.8472067,https://clinicaltrials.gov/study/NCT01783834,NCT01783834,Previous Treated Metastatic Non-small Cell Lung Cancer
+713,0.999421315,184.5136248,https://clinicaltrials.gov/study/NCT02095834,NCT02095834,Recurrent Plasma Cell Myeloma|Refractory Plasma Cell Myeloma
+714,0.995466577,157.5957264,https://clinicaltrials.gov/study/NCT03748134,NCT03748134,Esophageal Squamous Cell Carcinoma
+715,0.674821755,5.740132202,https://clinicaltrials.gov/study/NCT04255134,NCT04255134,Rheumatoid Arthritis
+716,0.998564282,173.4712209,https://clinicaltrials.gov/study/NCT00005634,NCT00005634,"Leukemia|Lymphoma|Multiple Myeloma and Plasma Cell Neoplasm|Prostate Cancer|Small Intestine Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+717,0.997947393,165.3270013,https://clinicaltrials.gov/study/NCT00687934,NCT00687934,Solid Tumors
+718,0.995122788,156.4308193,https://clinicaltrials.gov/study/NCT00750334,NCT00750334,Myelodysplastic Syndromes
+719,0.995121662,156.5432944,https://clinicaltrials.gov/study/NCT00125034,NCT00125034,Neoplasm Metastasis|Colorectal Cancer
+720,0.865714952,12.35189888,https://clinicaltrials.gov/study/NCT03430934,NCT03430934,Skin Cancer
+721,0.816929623,8.792919656,https://clinicaltrials.gov/study/NCT03990701,NCT03990701,Primary Aldosteronism|Primary Aldosteronism Due to Aldosterone Producing Adenoma
+722,0.99382224,153.1323526,https://clinicaltrials.gov/study/NCT00944801,NCT00944801,Glioblastoma
+723,0.991331142,152.5809083,https://clinicaltrials.gov/study/NCT03209401,NCT03209401,"Solid Tumor, Adult|Homologous Recombination Deficiency"
+724,0.997117608,161.3853704,https://clinicaltrials.gov/study/NCT02395601,NCT02395601,B-Cell Lymphoma
+725,0.978756844,90.38580064,https://clinicaltrials.gov/study/NCT01152801,NCT01152801,Metastatic Renal Cell Carcinoma
+726,0.96787104,63.25888193,https://clinicaltrials.gov/study/NCT02196701,NCT02196701,Psoriasis
+727,0.983278996,104.109791,https://clinicaltrials.gov/study/NCT00609401,NCT00609401,Metastatic Disease|Renal Cell Carcinoma
+728,0.996743123,157.2624868,https://clinicaltrials.gov/study/NCT00658801,NCT00658801,Pancreatic Cancer
+729,0.997891594,166.6985021,https://clinicaltrials.gov/study/NCT00354601,NCT00354601,Fallopian Tube Cancer|Ovarian Cancer|Peritoneal Cavity Cancer
+730,0.998777429,177.2300338,https://clinicaltrials.gov/study/NCT00825201,NCT00825201,"Ovarian Cancer|Peritoneal Cavity Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+731,0.995855665,155.5460418,https://clinicaltrials.gov/study/NCT02485834,NCT02485834,Adenocarcinoma of the Gastroesophageal Junction|Gastric Adenocarcinoma|Gastric Cancer
+732,0.998676404,185.4205981,https://clinicaltrials.gov/study/NCT03572634,NCT03572634,Chronic Lymphocytic Leukemia|CLL|SLL|Small Lymphocytic Lymphoma
+733,0.955291903,41.09347413,https://clinicaltrials.gov/study/NCT01506934,NCT01506934,Advanced or Metastatic Solid Tumors
+734,0.987039097,137.029694,https://clinicaltrials.gov/study/NCT01523834,NCT01523834,Diffuse Large B-cell Lymphoma
+735,0.99129207,151.3084463,https://clinicaltrials.gov/study/NCT00885534,NCT00885534,Melanoma|Skin Cancer
+736,0.922089444,23.26646047,https://clinicaltrials.gov/study/NCT02453334,NCT02453334,Cancer and Chemotherapy Related Anemia
+737,0.998272026,176.2259917,https://clinicaltrials.gov/study/NCT00004934,NCT00004934,Fallopian Tube Cancer|Ovarian Cancer|Primary Peritoneal Cavity Cancer
+738,0.959451949,39.22305413,https://clinicaltrials.gov/study/NCT01258634,NCT01258634,Osteosarcoma|Lung Metastases
+739,0.920527195,26.74713901,https://clinicaltrials.gov/study/NCT01454934,NCT01454934,Non-Small Cell Lung Cancer (NSCLC)
+740,0.532521323,2.931757955,https://clinicaltrials.gov/study/NCT04162834,NCT04162834,Kidney Cancer
+741,0.998526543,173.5545197,https://clinicaltrials.gov/study/NCT04851834,NCT04851834,Advanced Solid Tumor|Platinum-Resistant Ovarian Cancer|Platinum-Resistant Urothelial Carcinoma|High-grade Glioma
+742,0.998223145,166.9114389,https://clinicaltrials.gov/study/NCT00002534,NCT00002534,Leukemia
+743,0.960008224,43.57525658,https://clinicaltrials.gov/study/NCT00216034,NCT00216034,Gastric Cancer
+744,0.986787967,150.1555957,https://clinicaltrials.gov/study/NCT00721734,NCT00721734,Multiple Myeloma|Renal Insufficiency
+745,0.953947936,45.13786067,https://clinicaltrials.gov/study/NCT02744534,NCT02744534,Prostatic Neoplasms
+746,0.965584843,49.47596116,https://clinicaltrials.gov/study/NCT00576901,NCT00576901,Breast Cancer
+747,0.989954675,150.6102938,https://clinicaltrials.gov/study/NCT03117101,NCT03117101,Advanced Solid Tumors
+748,0.982686722,101.3265676,https://clinicaltrials.gov/study/NCT00030901,NCT00030901,Precancerous/Nonmalignant Condition|Prostate Cancer
+749,0.98988925,150.1234478,https://clinicaltrials.gov/study/NCT00190528,NCT00190528,Cervical Neoplasms
+750,0.999570211,185.0485518,https://clinicaltrials.gov/study/NCT01653028,NCT01653028,Myxofibrosarcoma|Recurrent Adult Soft Tissue Sarcoma|Recurrent Leiomyosarcoma|Recurrent Liposarcoma|Recurrent Malignant Peripheral Nerve Sheath Tumor|Recurrent Undifferentiated Pleomorphic Sarcoma|Stage III Soft Tissue Sarcoma AJCC v7|Stage IV Soft Tissue Sarcoma AJCC v7
+751,0.957445618,52.34005634,https://clinicaltrials.gov/study/NCT00444041,NCT00444041,Metastatic Colorectal Cancer
+752,0.993969803,153.6575147,https://clinicaltrials.gov/study/NCT00320541,NCT00320541,Breast Cancer
+753,0.596197222,2.441254715,https://clinicaltrials.gov/study/NCT01909141,NCT01909141,Polycystic Ovary Syndrome|Infertility
+754,0.997777795,171.6651088,https://clinicaltrials.gov/study/NCT01491841,NCT01491841,Non-Hodgkin's Lymphoma
+755,0.995727283,156.3205666,https://clinicaltrials.gov/study/NCT00910741,NCT00910741,Locally Advanced and Metastatic Pancreatic Cancer
+756,0.986802087,139.2533504,https://clinicaltrials.gov/study/NCT00436241,NCT00436241,Gastric Cancer
+757,0.974864325,80.12295262,https://clinicaltrials.gov/study/NCT03690141,NCT03690141,Castrate-resistant Prostate Cancer (CRPC)
+758,0.997643072,166.5716469,https://clinicaltrials.gov/study/NCT00068341,NCT00068341,Breast Cancer
+759,0.982649453,91.72355603,https://clinicaltrials.gov/study/NCT00115141,NCT00115141,Warts
+760,0.999068457,190.8172196,https://clinicaltrials.gov/study/NCT00329641,NCT00329641,"Ciliary Body and Choroid Melanoma, Medium/Large Size|Extraocular Extension Melanoma|Iris Melanoma|Metastatic Intraocular Melanoma|Recurrent Intraocular Melanoma"
+761,0.999304031,192.2455887,https://clinicaltrials.gov/study/NCT02020941,NCT02020941,Refractory Multiple Myeloma
+762,0.946454755,31.57645304,https://clinicaltrials.gov/study/NCT02670941,NCT02670941,Chemotherapy Symptoms
+763,0.996212966,157.3409188,https://clinicaltrials.gov/study/NCT00003041,NCT00003041,Breast Cancer
+764,0.998337348,172.7492714,https://clinicaltrials.gov/study/NCT04256941,NCT04256941,Anatomic Stage IV Breast Cancer AJCC v8|Metastatic Breast Carcinoma|Prognostic Stage IV Breast Cancer AJCC v8
+765,0.997296704,160.3528024,https://clinicaltrials.gov/study/NCT00761241,NCT00761241,Pancreatic Cancer
+766,0.964112857,57.8294433,https://clinicaltrials.gov/study/NCT02357836,NCT02357836,Non-small Cell Lung Cancer
+767,0.991018546,151.1910948,https://clinicaltrials.gov/study/NCT05382936,NCT05382936,Advanced Solid Tumor
+768,0.834125436,13.46248623,https://clinicaltrials.gov/study/NCT01198236,NCT01198236,Invasive Fungal Infection
+769,0.980273058,122.3299877,https://clinicaltrials.gov/study/NCT00455936,NCT00455936,Lung Cancer
+770,0.996531002,154.0216086,https://clinicaltrials.gov/study/NCT00085436,NCT00085436,Kidney Cancer
+771,0.989677854,150.161832,https://clinicaltrials.gov/study/NCT04305236,NCT04305236,Breast Neoplasm|Hormone Receptor Positive Breast Carcinoma
+772,0.992544002,153.8776392,https://clinicaltrials.gov/study/NCT00669136,NCT00669136,"Hepatocellular Carcinoma|Hepatoma|Liver Cancer, Adult|Liver Cell Carcinoma|Liver Cell Carcinoma, Adult|Cancer of Liver|Cancer of the Liver|Cancer, Hepatocellular|Hepatic Cancer|Hepatic Neoplasms|Hepatocellular Cancer|Liver Cancer|Neoplasms, Hepatic|Neoplasms, Liver"
+773,0.999394989,195.1767915,https://clinicaltrials.gov/study/NCT02798536,NCT02798536,Mesothelioma
+774,0.993364641,153.1945995,https://clinicaltrials.gov/study/NCT00936936,NCT00936936,Testicular Cancer
+775,0.997866291,169.3727649,https://clinicaltrials.gov/study/NCT01120236,NCT01120236,Prostate Adenocarcinoma|Recurrent Prostate Carcinoma|Stage IV Prostate Cancer
+776,0.992855722,152.3987827,https://clinicaltrials.gov/study/NCT01926236,NCT01926236,Biliary Tract Cancer|Gallbladder Cancer|Cholangiocarcinoma|Ampullary Cancer
+777,0.995990658,155.0891593,https://clinicaltrials.gov/study/NCT01425736,NCT01425736,Head and Neck Squamous Cell Carcinoma
+778,0.986894362,150.344696,https://clinicaltrials.gov/study/NCT02064036,NCT02064036,Adenocarcinoma of the Prostate
+779,0.996919462,162.1953518,https://clinicaltrials.gov/study/NCT00770536,NCT00770536,Cancer|Carcinoma|Fallopian Tube Cancer|Gynecological Malignancies|Metastases|Oncology|Ovarian Cancer|Solid Tumors|Tumors
+780,0.978616447,95.40811486,https://clinicaltrials.gov/study/NCT02101736,NCT02101736,NF1|Neurofibromatosis|Plexiform Neurofibromas
+781,0.995034952,155.7196149,https://clinicaltrials.gov/study/NCT02236936,NCT02236936,Squamous Cell Carcinoma of the Hypopharynx Stage III|Squamous Cell Carcinoma of the Hypopharynx Stage IV|Laryngeal Squamous Cell Carcinoma Stage III|Laryngeal Squamous Cell Carcinoma Stage IV|Oropharyngeal Squamous Cell Carcinoma Stage III|Oropharyngeal Squamous Cell Carcinoma Stage IV|Squamous Cell Carcinoma of the Oral Cavity Stage III|Squamous Cell Carcinoma of the Oral Cavity Stage IV|Locally Advanced Malignant Neoplasm
+782,0.942233403,32.69869677,https://clinicaltrials.gov/study/NCT00110136,NCT00110136,Breast Cancer|Hot Flashes
+783,0.989110871,150.62986,https://clinicaltrials.gov/study/NCT01658436,NCT01658436,Pancreatic Neuroendocrine Tumors (pNET)
+784,0.988485538,150.9164351,https://clinicaltrials.gov/study/NCT02105636,NCT02105636,Squamous Cell Carcinoma of the Head and Neck
+785,0.997285018,164.1166834,https://clinicaltrials.gov/study/NCT02343536,NCT02343536,"Lymphoma, Large B-Cell, Diffuse|Lymphoma, Follicular"
+786,0.984231222,146.4315983,https://clinicaltrials.gov/study/NCT04561336,NCT04561336,Metastatic Colorectal Cancer|RAS Wild Type
+787,0.998562574,174.6470021,https://clinicaltrials.gov/study/NCT00026936,NCT00026936,Neoplasm
+788,0.998994369,182.5148219,https://clinicaltrials.gov/study/NCT00602836,NCT00602836,Leukemia|Lymphoma
+789,0.88027989,16.35191046,https://clinicaltrials.gov/study/NCT01853423,NCT01853423,Facial Angiofibroma
+790,0.999225748,182.1543211,https://clinicaltrials.gov/study/NCT01247623,NCT01247623,Malignant Melanoma
+791,0.997921788,163.1678231,https://clinicaltrials.gov/study/NCT01498328,NCT01498328,Glioblastoma|Small Cell Glioblastoma|Giant Cell Glioblastoma|Gliosarcoma|Glioblastoma With Oligodendroglial Component|Recurrent Glioblastoma|Relapsed Glioblastoma
+792,0.994570408,153.7323982,https://clinicaltrials.gov/study/NCT01042028,NCT01042028,Pancreatic Cancer
+793,0.989449851,151.4408656,https://clinicaltrials.gov/study/NCT00096941,NCT00096941,Solid Cancers
+794,0.999645786,189.7894876,https://clinicaltrials.gov/study/NCT00003541,NCT00003541,Lymphoma
+795,0.967303964,70.97342123,https://clinicaltrials.gov/study/NCT00532441,NCT00532441,Hepatocellular Carcinoma
+796,0.999297395,185.4612908,https://clinicaltrials.gov/study/NCT00016341,NCT00016341,Endometrial Cancer
+797,0.940778284,33.44114852,https://clinicaltrials.gov/study/NCT01360541,NCT01360541,Barrett Oesophagus|Low Grade Dysplasia
+798,0.991406328,151.9358087,https://clinicaltrials.gov/study/NCT00790036,NCT00790036,Diffuse Large B-cell Lymphoma
+799,0.999653365,192.2646719,https://clinicaltrials.gov/study/NCT01237236,NCT01237236,Advanced Solid Tumor|Lymphomas
+800,0.969345831,74.88371573,https://clinicaltrials.gov/study/NCT00311636,NCT00311636,Breast Cancer
+801,0.999831789,180.3066487,https://clinicaltrials.gov/study/NCT00010036,NCT00010036,Brain and Central Nervous System Tumors
+802,0.990935543,151.7618732,https://clinicaltrials.gov/study/NCT00033436,NCT00033436,Bladder Cancer
+803,0.963693713,44.66206466,https://clinicaltrials.gov/study/NCT03413436,NCT03413436,Esophageal Cancer
+804,0.999196495,189.6458406,https://clinicaltrials.gov/study/NCT00031941,NCT00031941,"Lymphoma|Small Intestine Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+805,0.986623411,150.2774431,https://clinicaltrials.gov/study/NCT00336141,NCT00336141,Colorectal Cancer
+806,0.997923582,165.8027696,https://clinicaltrials.gov/study/NCT02482441,NCT02482441,Advanced Relapsed Tumors|Refractory Solid Tumors
+807,0.99883256,172.3480093,https://clinicaltrials.gov/study/NCT00005641,NCT00005641,Chronic Myeloproliferative Disorders|Graft Versus Host Disease|Leukemia|Multiple Myeloma and Plasma Cell Neoplasm|Myelodysplastic Syndromes
+808,0.953068847,44.22205003,https://clinicaltrials.gov/study/NCT01381341,NCT01381341,Advanced Solid Tumors
+809,0.984167401,93.34878722,https://clinicaltrials.gov/study/NCT01117441,NCT01117441,Leukemia
+810,0.985811591,150.0208312,https://clinicaltrials.gov/study/NCT00971841,NCT00971841,Esophageal Cancer
+811,0.981396601,127.5628761,https://clinicaltrials.gov/study/NCT00619541,NCT00619541,Hepatocellular Carcinoma
+812,0.999495304,184.6206575,https://clinicaltrials.gov/study/NCT04424641,NCT04424641,Locally Advanced or Metastatic Solid Tumor(s)|Prostate Cancer|Esophageal Cancer|Triple Negative Breast Cancer (TNBC)|Squamous Cell Carcinoma of Head and Neck (SCCHN)|Non-small Cell Lung Cancer (NSCLC)|Bladder Cancer|Uterine Cancer
+813,0.998784907,175.5195886,https://clinicaltrials.gov/study/NCT00041041,NCT00041041,Primary Peritoneal Cavity Cancer|Recurrent Ovarian Epithelial Cancer
+814,0.921294634,20.79829155,https://clinicaltrials.gov/study/NCT02470741,NCT02470741,Leiomyoma|Uterine Fibroids
+815,0.9929585,152.5748268,https://clinicaltrials.gov/study/NCT03988036,NCT03988036,Breast Cancer
+816,0.947148697,38.05821442,https://clinicaltrials.gov/study/NCT02074436,NCT02074436,Hematological Malignancies|Thrombocytopenia
+817,0.875460455,14.39650636,https://clinicaltrials.gov/study/NCT01012336,NCT01012336,Chemotherapy-Induced Nausea and Vomiting|Ovarian Cancer
+818,0.985977784,134.2490283,https://clinicaltrials.gov/study/NCT01759836,NCT01759836,Prostatic Neoplasms
+819,0.933922963,26.87985341,https://clinicaltrials.gov/study/NCT00580736,NCT00580736,Port Wine Stain|Nevus of Ota|Tattoos|Scars|Acne|Hypertrichosis|Sebaceous Gland Diseases
+820,0.999051598,187.7031481,https://clinicaltrials.gov/study/NCT00119236,NCT00119236,"Unspecified Adult Solid Tumor, Protocol Specific"
+821,0.887321871,17.71074407,https://clinicaltrials.gov/study/NCT00140036,NCT00140036,Colorectal Neoplasms
+822,0.994780131,154.1163134,https://clinicaltrials.gov/study/NCT00064636,NCT00064636,Advanced Non-Small Cell Lung Cancer|Other Solid Tumors
+823,0.980263427,86.17496238,https://clinicaltrials.gov/study/NCT00563836,NCT00563836,Ovarian Cancer|Epithelial Ovarian Cancer
+824,0.998169482,169.385931,https://clinicaltrials.gov/study/NCT00041236,NCT00041236,Sarcoma
+825,0.912119014,20.9173267,https://clinicaltrials.gov/study/NCT01310036,NCT01310036,Non-Squamous Non-Small Cell Lung Cancer
+826,0.962215159,55.70467017,https://clinicaltrials.gov/study/NCT01276236,NCT01276236,Kaposi's Sarcoma
+827,0.992392722,152.0277191,https://clinicaltrials.gov/study/NCT01633541,NCT01633541,Laryngeal Cancer
+828,0.972201307,65.85057941,https://clinicaltrials.gov/study/NCT00698841,NCT00698841,Advanced Cancer
+829,0.5610789,4.135356802,https://clinicaltrials.gov/study/NCT00888641,NCT00888641,Kidney Neoplasm
+830,0.999779424,196.6752677,https://clinicaltrials.gov/study/NCT00609141,NCT00609141,"Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor|Unspecified Childhood Solid Tumor, Protocol Specific"
+831,0.98339264,143.6955037,https://clinicaltrials.gov/study/NCT00063141,NCT00063141,Colorectal Cancer
+832,0.938764223,34.46827689,https://clinicaltrials.gov/study/NCT06184841,NCT06184841,Hepatic Arterial Infusion Chemotherapy|Liver Metastases|Esophageal Squamous Cell Carcinoma
+833,0.887626704,18.55565134,https://clinicaltrials.gov/study/NCT02622841,NCT02622841,Neoplasm Metastasis
+834,0.987461101,150.1668359,https://clinicaltrials.gov/study/NCT01161836,NCT01161836,Advanced Solid Tumors
+835,0.98923504,150.7272581,https://clinicaltrials.gov/study/NCT02850536,NCT02850536,Liver Metastases
+836,0.76695086,7.363830021,https://clinicaltrials.gov/study/NCT01468636,NCT01468636,Genital Warts|HPV
+837,0.993413478,151.6667277,https://clinicaltrials.gov/study/NCT02243436,NCT02243436,CLASSICAL HODGKIN LYMPHOMA
+838,0.999543661,188.3665481,https://clinicaltrials.gov/study/NCT04158141,NCT04158141,Pleural Biphasic Mesothelioma|Pleural Epithelioid Mesothelioma|Stage I Pleural Malignant Mesothelioma AJCC v8|Stage IA Pleural Malignant Mesothelioma AJCC v8|Stage IB Pleural Malignant Mesothelioma AJCC v8|Stage II Pleural Malignant Mesothelioma AJCC v8|Stage IIIA Pleural Malignant Mesothelioma AJCC v8
+839,0.997492656,161.8212541,https://clinicaltrials.gov/study/NCT02262741,NCT02262741,Squamous Cell Carcinoma of the Head and Neck
+840,0.995576035,155.826962,https://clinicaltrials.gov/study/NCT01993641,NCT01993641,Myelodysplastic Syndrome|MDS
+841,0.993296677,153.1711006,https://clinicaltrials.gov/study/NCT02700841,NCT02700841,Plasma Cell Myeloma
+842,0.998831299,191.792205,https://clinicaltrials.gov/study/NCT02379741,NCT02379741,Neoplasms|Solid Tumors
+843,0.996833086,158.6614225,https://clinicaltrials.gov/study/NCT00001341,NCT00001341,Neoplasm
+844,0.992074125,151.6547567,https://clinicaltrials.gov/study/NCT03980041,NCT03980041,Bladder Cancer|Urothelial Carcinoma|Solid Tumor|Advanced Cancer
+845,0.998701092,183.9898284,https://clinicaltrials.gov/study/NCT00004141,NCT00004141,Melanoma (Skin)
+846,0.700540648,4.514014252,https://clinicaltrials.gov/study/NCT00051441,NCT00051441,Stomatitis|Radiation Effects
+847,0.995090062,153.767123,https://clinicaltrials.gov/study/NCT03083041,NCT03083041,"Carcinoma, Non-Small-Cell Lung"
+848,0.564549142,4.421463727,https://clinicaltrials.gov/study/NCT00216541,NCT00216541,Anemia|Neoplasms
+849,0.990214123,151.1901843,https://clinicaltrials.gov/study/NCT01506336,NCT01506336,Gastro Intestinal Stromal Tumor
+850,0.999715164,188.806429,https://clinicaltrials.gov/study/NCT03422536,NCT03422536,Head and Neck Basaloid Carcinoma|Recurrent Head and Neck Squamous Cell Carcinoma|Recurrent Oropharyngeal Squamous Cell Carcinoma|Squamous Cell Carcinoma of Unknown Primary Origin|Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity|Stage IV Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity|Stage IV Nasopharyngeal Keratinizing Squamous Cell Carcinoma|Stage IV Oropharyngeal Squamous Cell Carcinoma|Stage IVA Lip and Oral Cavity Squamous Cell Carcinoma|Stage IVA Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma|Stage IVA Nasopharyngeal Keratinizing Squamous Cell Carcinoma|Stage IVA Oropharyngeal Squamous Cell Carcinoma|Stage IVB Lip and Oral Cavity Squamous Cell Carcinoma|Stage IVB Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma|Stage IVB Nasopharyngeal Keratinizing Squamous Cell Carcinoma|Stage IVB Oropharyngeal Squamous Cell Carcinoma|Stage IVC Lip and Oral Cavity Squamous Cell Carcinoma|Stage IVC Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma|Stage IVC Nasopharyngeal Keratinizing Squamous Cell Carcinoma|Stage IVC Oropharyngeal Squamous Cell Carcinoma|Head and Neck Cancer|Oropharyngeal Cancer|HNSCC|Stage IV Lip and Oral Cavity Squamous Cell Carcinoma
+851,0.999070471,193.206801,https://clinicaltrials.gov/study/NCT04614636,NCT04614636,"Acute Myeloid Leukemia|AML, Adult|Multiple Myeloma|Myeloma"
+852,0.99603433,157.4169003,https://clinicaltrials.gov/study/NCT01752036,NCT01752036,Solid Tumor Spine Metastases
+853,0.991075771,151.311899,https://clinicaltrials.gov/study/NCT01727336,NCT01727336,Advanced Renal Cell Carcinoma
+854,0.997537839,162.6860203,https://clinicaltrials.gov/study/NCT01485536,NCT01485536,Lymphoma
+855,0.992455825,152.6995016,https://clinicaltrials.gov/study/NCT01222936,NCT01222936,Small Cell Lung Carcinoma
+856,0.969020695,52.93347395,https://clinicaltrials.gov/study/NCT02667236,NCT02667236,Seborrheic Keratosis
+857,0.995858574,157.9526459,https://clinicaltrials.gov/study/NCT01030536,NCT01030536,Non-Hodgkin Lymphoma|Chronic Lymphocytic Leukemia
+858,0.996665726,158.4597949,https://clinicaltrials.gov/study/NCT01248936,NCT01248936,Malignant Melanoma
+859,0.984004458,95.83169459,https://clinicaltrials.gov/study/NCT00032136,NCT00032136,Breast Cancer
+860,0.989126124,150.0137037,https://clinicaltrials.gov/study/NCT00987636,NCT00987636,Ewing's Sarcoma
+861,0.999413562,188.4941588,https://clinicaltrials.gov/study/NCT00892736,NCT00892736,Basal-Like Breast Carcinoma|BRCA1 Mutation Carrier|BRCA2 Mutation Carrier|Breast Carcinoma|Estrogen Receptor Negative|HER2/Neu Negative|Hereditary Breast and Ovarian Cancer Syndrome|Ovarian Carcinoma|Pancreatic Carcinoma|Progesterone Receptor Negative|Prostate Carcinoma|Recurrent Breast Carcinoma|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma|Solid Neoplasm|Triple-Negative Breast Carcinoma
+862,0.876215863,16.59401222,https://clinicaltrials.gov/study/NCT05053841,NCT05053841,Metformin|Breast Cancer
+863,0.876642565,16.35444126,https://clinicaltrials.gov/study/NCT01092741,NCT01092741,Leukemia
+864,0.889428206,14.22135991,https://clinicaltrials.gov/study/NCT00645541,NCT00645541,Breast Cancer
+865,0.96553255,53.04789914,https://clinicaltrials.gov/study/NCT02680041,NCT02680041,Prostate Cancer
+866,0.986071405,148.6521355,https://clinicaltrials.gov/study/NCT00145041,NCT00145041,Malignant Melanoma
+867,0.984525768,119.7372704,https://clinicaltrials.gov/study/NCT01948141,NCT01948141,Recurrent Non-small Cell Lung Cancer|Squamous Cell Lung Cancer|Stage III Non-small Cell Lung Cancer|Stage IV Non-small Cell Lung Cancer
+868,0.992096511,152.0299324,https://clinicaltrials.gov/study/NCT04397341,NCT04397341,Locally Advanced Head and Neck Carcinoma
+869,0.995437501,154.6825958,https://clinicaltrials.gov/study/NCT00906841,NCT00906841,B-cell Lymphoma
+870,0.998860938,182.7688238,https://clinicaltrials.gov/study/NCT02404441,NCT02404441,Melanoma|Non-small Sell Lung Cancer (NSCLC)|Triple Negative Breast Cancer|Anaplastic Thyroid Cancer|Other Solid Tumors
+871,0.993314073,153.3151189,https://clinicaltrials.gov/study/NCT00003336,NCT00003336,Leukemia|Myelodysplastic Syndromes|Myelodysplastic/Myeloproliferative Diseases
+872,0.995080503,153.9827707,https://clinicaltrials.gov/study/NCT00199836,NCT00199836,Cancer|Neoplasm
+873,0.998658273,176.69181,https://clinicaltrials.gov/study/NCT00112736,NCT00112736,Adult Anaplastic Astrocytoma|Adult Anaplastic Oligodendroglioma|Adult Diffuse Astrocytoma|Adult Giant Cell Glioblastoma|Adult Glioblastoma|Adult Gliosarcoma|Adult Mixed Glioma|Adult Pilocytic Astrocytoma|Adult Pineal Gland Astrocytoma|Adult Subependymal Giant Cell Astrocytoma|Recurrent Adult Brain Tumor
+874,0.981332095,116.1707081,https://clinicaltrials.gov/study/NCT02521441,NCT02521441,Neutropenia
+875,0.999551975,185.5216655,https://clinicaltrials.gov/study/NCT00006041,NCT00006041,Fallopian Tube Cancer|Ovarian Cancer|Primary Peritoneal Cavity Cancer
+876,0.973086901,81.41510893,https://clinicaltrials.gov/study/NCT01911741,NCT01911741,Healthy Subjects|Castration Resistant Prostate Cancer (CRPC)|Relative Bioavailability|MDV3100
+877,0.95406975,41.60540239,https://clinicaltrials.gov/study/NCT00954941,NCT00954941,Hematologic Diseases|Acute Myelogenous Leukemia|Myelodysplastic Syndrome|Chronic Myelogenous Leukemia
+878,0.999645719,175.5006465,https://clinicaltrials.gov/study/NCT00288041,NCT00288041,"Ciliary Body and Choroid Melanoma, Medium/Large Size|Extraocular Extension Melanoma|Iris Melanoma|Recurrent Intraocular Melanoma|Recurrent Melanoma|Stage IV Melanoma"
+879,0.994152779,154.6285634,https://clinicaltrials.gov/study/NCT00295841,NCT00295841,Leukemia
+880,0.991826593,153.2016766,https://clinicaltrials.gov/study/NCT04236141,NCT04236141,"Diffuse, Large B-Cell, Lymphoma"
+881,0.976142259,87.94583568,https://clinicaltrials.gov/study/NCT02565641,NCT02565641,Pancreatic Cancer
+882,0.976203631,78.10450142,https://clinicaltrials.gov/study/NCT01658241,NCT01658241,Nodal Lymphoma|Lymphoma With Cutaneous Involvement|Lymphoma in Leukemic Phase|Marrow Involvement With Lymphoma|Multiple Myeloma
+883,0.99429594,153.5181014,https://clinicaltrials.gov/study/NCT02109341,NCT02109341,Metastatic Pancreatic Cancer
+884,0.988829979,150.727184,https://clinicaltrials.gov/study/NCT00636441,NCT00636441,Early-Stage Breast Cancer
+885,0.997174676,160.7251632,https://clinicaltrials.gov/study/NCT01079741,NCT01079741,Melanoma
+886,0.998899446,186.914503,https://clinicaltrials.gov/study/NCT00550836,NCT00550836,Pancreatic Cancer
+887,0.997361413,160.5895641,https://clinicaltrials.gov/study/NCT00437736,NCT00437736,Cancer
+888,0.990769327,152.9060999,https://clinicaltrials.gov/study/NCT00415636,NCT00415636,Cancer
+889,0.99737377,163.8836699,https://clinicaltrials.gov/study/NCT00130936,NCT00130936,Gastric Cancer|Esophageal Cancer|Tumors
+890,0.987574178,120.2093948,https://clinicaltrials.gov/study/NCT03989336,NCT03989336,Ovarian Cancer
+891,0.988950899,150.1777966,https://clinicaltrials.gov/study/NCT04134936,NCT04134936,Diffuse Large B-cell Lymphoma
+892,0.988466793,131.2600459,https://clinicaltrials.gov/study/NCT01272141,NCT01272141,Breast Neoplasms|Breast Cancer|Cancer of the Breast
+893,0.984402975,150.0213433,https://clinicaltrials.gov/study/NCT00516841,NCT00516841,Ovarian Cancer|Peritoneal Neoplasms
+894,0.994449396,153.8251553,https://clinicaltrials.gov/study/NCT00632541,NCT00632541,Metastatic Breast Cancer
+895,0.997873014,168.2908834,https://clinicaltrials.gov/study/NCT00826241,NCT00826241,Brain Tumors|Spinal Cord Tumors
+896,0.999240781,186.5192023,https://clinicaltrials.gov/study/NCT04418141,NCT04418141,Advanced Solid Tumor|B Cell Lymphoma
+897,0.993303589,153.5763295,https://clinicaltrials.gov/study/NCT03913741,NCT03913741,Solid Tumor
+898,0.991817748,152.2494326,https://clinicaltrials.gov/study/NCT00965341,NCT00965341,Advanced Cancer
+899,0.994456489,154.9171153,https://clinicaltrials.gov/study/NCT00299741,NCT00299741,Prostate Cancer
+900,0.985012803,117.4676304,https://clinicaltrials.gov/study/NCT00988741,NCT00988741,Unresectable Hepatocellular Carcinoma
+901,0.980593363,102.8123196,https://clinicaltrials.gov/study/NCT00679341,NCT00679341,Breast Cancer
+902,0.999024511,186.9653511,https://clinicaltrials.gov/study/NCT00624936,NCT00624936,Leukemia|Myelodysplastic Syndromes|Myelodysplastic/Myeloproliferative Neoplasms
+903,0.997154154,163.2100028,https://clinicaltrials.gov/study/NCT04015336,NCT04015336,Papillomavirus Infections|Oropharyngeal Neoplasms
+904,0.996548259,160.8513527,https://clinicaltrials.gov/study/NCT00831636,NCT00831636,Ovarian Cancer
+905,0.972185834,68.67708831,https://clinicaltrials.gov/study/NCT00446836,NCT00446836,Prostatic Neoplasms
+906,0.992126314,153.0180317,https://clinicaltrials.gov/study/NCT02496741,NCT02496741,Glioma|Cholangiocarcinoma|Chondrosarcoma
+907,0.790633181,8.282472396,https://clinicaltrials.gov/study/NCT02551341,NCT02551341,Prostate Cancer
+908,0.974222586,65.80742932,https://clinicaltrials.gov/study/NCT00080041,NCT00080041,Breast Neoplasms|Ovarian Neoplasms|Prostatic Neoplasms|Lung Neoplasms
+909,0.982200108,131.501499,https://clinicaltrials.gov/study/NCT01545141,NCT01545141,"Colorectal Cancer|Colorectal Carcinoma|Colorectal Tumors|Neoplasms, Colorectal"
+910,0.993750993,153.0324845,https://clinicaltrials.gov/study/NCT02071641,NCT02071641,Metastatic Renal Cell Carcinoma
+911,0.992041458,151.253663,https://clinicaltrials.gov/study/NCT01540136,NCT01540136,Nasopharyngeal Carcinoma
+912,0.968057394,62.23438202,https://clinicaltrials.gov/study/NCT03262636,NCT03262636,"Brain Tumor, Primary|Brain Tumor, Recurrent"
+913,0.996346692,157.3428937,https://clinicaltrials.gov/study/NCT01079936,NCT01079936,Myeloma|Stem Cell Transplantation
+914,0.876172686,11.32533693,https://clinicaltrials.gov/study/NCT01091636,NCT01091636,Epithelial Ovarian Cancer
+915,0.994234171,154.0692691,https://clinicaltrials.gov/study/NCT00004136,NCT00004136,Liver Cancer|Metastatic Cancer
+916,0.999278084,189.491256,https://clinicaltrials.gov/study/NCT01018836,NCT01018836,"Metastatic Cancer|Unspecified Adult Solid Tumor, Protocol Specific"
+917,0.982858258,98.23268547,https://clinicaltrials.gov/study/NCT00289341,NCT00289341,Prostate Cancer
+918,0.999160675,186.4207063,https://clinicaltrials.gov/study/NCT00101036,NCT00101036,Adult Primary Hepatocellular Carcinoma|Advanced Adult Primary Liver Cancer|Localized Unresectable Adult Primary Liver Cancer|Recurrent Adult Primary Liver Cancer|Recurrent Extrahepatic Bile Duct Cancer|Recurrent Gallbladder Cancer|Unresectable Extrahepatic Bile Duct Cancer|Unresectable Gallbladder Cancer
+919,0.961706221,57.20444417,https://clinicaltrials.gov/study/NCT04585841,NCT04585841,Lean Body Mass|Cannabis|Cancer|Nausea|Cachexia|Emesis|Appetitive Behavior
+920,0.92330519,25.21739309,https://clinicaltrials.gov/study/NCT01516736,NCT01516736,Chemotherapy-induced Neutropenia|Breast Cancer
+921,0.991768032,151.612793,https://clinicaltrials.gov/study/NCT00073736,NCT00073736,Hepatocellular Carcinoma
+922,0.94092191,29.59420088,https://clinicaltrials.gov/study/NCT01441336,NCT01441336,Advanced Gastric Cancer|Laparoscopic Gastrectomy
+923,0.996221129,159.0595571,https://clinicaltrials.gov/study/NCT00496236,NCT00496236,Head and Neck Cancer|Head and Neck Neoplasms
+924,0.995312557,155.0047479,https://clinicaltrials.gov/study/NCT00394836,NCT00394836,"Lymphoma, Follicular"
+925,0.998675941,180.5240754,https://clinicaltrials.gov/study/NCT00003436,NCT00003436,Leukemia|Myelodysplastic Syndromes
+926,0.993707452,153.2704264,https://clinicaltrials.gov/study/NCT04099836,NCT04099836,Non Small Cell Lung Cancer
+927,0.943067607,26.38792588,https://clinicaltrials.gov/study/NCT00254436,NCT00254436,Gastrointestinal Cancer|Rectal Cancer
+928,0.999692867,185.7239465,https://clinicaltrials.gov/study/NCT03189836,NCT03189836,Lymphoma
+929,0.898173528,18.19321779,https://clinicaltrials.gov/study/NCT00294736,NCT00294736,NSCLC
+930,0.713066513,5.684864322,https://clinicaltrials.gov/study/NCT03252223,NCT03252223,Polycystic Ovary Syndrome|Healthy|Anovulation|Hyperandrogenism
+931,0.984375517,133.4442458,https://clinicaltrials.gov/study/NCT01103323,NCT01103323,Metastatic Colorectal Cancer
+932,0.95000626,49.29417991,https://clinicaltrials.gov/study/NCT01468623,NCT01468623,"Colorectal Cancer, Metastatic"
+933,0.995644709,155.2480266,https://clinicaltrials.gov/study/NCT01048723,NCT01048723,Sarcoma
+934,0.971168455,70.44208754,https://clinicaltrials.gov/study/NCT00303823,NCT00303823,Cervical Cancer|Cervical Intraepithelial Neoplasia Grade 1|Human Papilloma Virus Infection
+935,0.993230532,153.2410868,https://clinicaltrials.gov/study/NCT01754623,NCT01754623,Pancreatic Cancer
+936,0.891359241,17.7915714,https://clinicaltrials.gov/study/NCT02652923,NCT02652923,Breast Cancer
+937,0.986866039,137.9182495,https://clinicaltrials.gov/study/NCT02274623,NCT02274623,"Breast Cancer|Prostate Cancer|Bone Neoplasms|Hypocalcemia|Hyperparathyroidism, Secondary"
+938,0.992396495,151.7877069,https://clinicaltrials.gov/study/NCT02955823,NCT02955823,Diffuse Large B-cells Non-Hodgkin Lymphoma
+939,0.994595936,153.8375003,https://clinicaltrials.gov/study/NCT00588523,NCT00588523,CNS Cancer|CNS BRAIN
+940,0.996200746,157.2931336,https://clinicaltrials.gov/study/NCT02838823,NCT02838823,Breast Cancer
+941,0.955486022,53.68212005,https://clinicaltrials.gov/study/NCT00385788,NCT00385788,Hodgkin's Disease
+942,0.99328332,153.5018375,https://clinicaltrials.gov/study/NCT01897038,NCT01897038,"Carcinoma, Hepatocellular"
+943,0.885924538,19.14872927,https://clinicaltrials.gov/study/NCT02953938,NCT02953938,Macular Edema Secondary to Branch Retinal Vein Occlusion (BRVO)
+944,0.996468074,156.8160342,https://clinicaltrials.gov/study/NCT00390338,NCT00390338,Melanoma (Skin)
+945,0.994024692,154.0542224,https://clinicaltrials.gov/study/NCT02927938,NCT02927938,Acute Myeloid Leukemia (AML)
+946,0.995374046,156.5966816,https://clinicaltrials.gov/study/NCT02677038,NCT02677038,Metastatic Pancreatic Adenocarcinoma|Pancreatic Ductal Adenocarcinoma|Stage IV Pancreatic Cancer AJCC v6 and v7
+947,0.941739979,33.59817269,https://clinicaltrials.gov/study/NCT02140138,NCT02140138,Prostate Carcinoma
+948,0.995676429,155.4507202,https://clinicaltrials.gov/study/NCT02237638,NCT02237638,Metastatic Cancer
+949,0.984778283,147.6143461,https://clinicaltrials.gov/study/NCT00078572,NCT00078572,Breast Cancer
+950,0.958102461,33.85164749,https://clinicaltrials.gov/study/NCT02159872,NCT02159872,Leukemia
+951,0.999313784,188.0393893,https://clinicaltrials.gov/study/NCT00003172,NCT00003172,Gastric Cancer
+952,0.980123283,125.9900035,https://clinicaltrials.gov/study/NCT02717572,NCT02717572,"Solid Tumor, Adult"
+953,0.986582149,129.249019,https://clinicaltrials.gov/study/NCT00311272,NCT00311272,Colorectal Neoplasms
+954,0.998786742,180.6553829,https://clinicaltrials.gov/study/NCT01213472,NCT01213472,Melanoma
+955,0.995191102,156.9600326,https://clinicaltrials.gov/study/NCT01375972,NCT01375972,Metastatic Biliary Cancer
+956,0.999539031,188.3089782,https://clinicaltrials.gov/study/NCT01781572,NCT01781572,Locally Advanced or Metastatic NRAS Mutant Melanoma
+957,0.999054762,183.8024549,https://clinicaltrials.gov/study/NCT00003162,NCT00003162,Breast Cancer|Metastatic Cancer|Pain|Prostate Cancer
+958,0.983990151,112.6146339,https://clinicaltrials.gov/study/NCT01256762,NCT01256762,Locally Recurrent or Metastatic Breast Cancer
+959,0.998339824,171.0338029,https://clinicaltrials.gov/study/NCT00119262,NCT00119262,Male Breast Cancer|Stage II Breast Cancer|Stage IIIA Breast Cancer|Stage IIIB Breast Cancer
+960,0.981989826,114.3003226,https://clinicaltrials.gov/study/NCT02303262,NCT02303262,Metastatic Leiomyosarcoma
+961,0.998929072,183.5288304,https://clinicaltrials.gov/study/NCT00459862,NCT00459862,Advanced Malignant Mesothelioma|Localized Malignant Mesothelioma|Recurrent Malignant Mesothelioma
+962,0.992931415,153.3707712,https://clinicaltrials.gov/study/NCT03599362,NCT03599362,Pancreatic Cancer
+963,0.999448923,190.7237521,https://clinicaltrials.gov/study/NCT00054262,NCT00054262,Liver Cancer
+964,0.999479553,190.1120969,https://clinicaltrials.gov/study/NCT04106362,NCT04106362,Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Clinical Stage IV HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|KRAS Protein Variant|Pathologic Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8|Pathologic Stage IV HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8
+965,0.978283176,78.14454461,https://clinicaltrials.gov/study/NCT00575562,NCT00575562,Colorectal Cancer
+966,0.99832681,170.9557124,https://clinicaltrials.gov/study/NCT01646762,NCT01646762,Refractory Plasma Cell Myeloma
+967,0.981984652,105.5961985,https://clinicaltrials.gov/study/NCT01295710,NCT01295710,GVHD|Adult Acute Myeloid Leukemia|Adult Acute Lymphoid Leukemia|Myelodysplastic Syndrome
+968,0.983816954,135.6525972,https://clinicaltrials.gov/study/NCT01103310,NCT01103310,Diagnostic Imaging|Neoplasms
+969,0.999478986,195.7399458,https://clinicaltrials.gov/study/NCT00290810,NCT00290810,B-cell Chronic Lymphocytic Leukemia|Refractory Chronic Lymphocytic Leukemia
+970,0.984500195,119.1796706,https://clinicaltrials.gov/study/NCT01056510,NCT01056510,"Lymphocytic Leukemia, Chronic"
+971,0.998741921,178.7091571,https://clinicaltrials.gov/study/NCT00098488,NCT00098488,B-cell Chronic Lymphocytic Leukemia|Prolymphocytic Leukemia|Refractory Chronic Lymphocytic Leukemia
+972,0.986573701,130.6943936,https://clinicaltrials.gov/study/NCT01498588,NCT01498588,"Breast Neoplasms|Breast Cancer|Breast Tumors|Cancer of the Breast|Neoplasms, Breast|Tumors, Breast"
+973,0.98706461,135.9155998,https://clinicaltrials.gov/study/NCT00414388,NCT00414388,Prostate Cancer
+974,0.985375594,145.8208483,https://clinicaltrials.gov/study/NCT00770588,NCT00770588,Non-small Cell Lung Cancer (NSCLC)
+975,0.963287373,48.388188,https://clinicaltrials.gov/study/NCT03997188,NCT03997188,Breast Cancer Female|Dysphagia|Adjuvant Radiotherapy
+976,0.996971046,161.0850055,https://clinicaltrials.gov/study/NCT00511238,NCT00511238,Multiple Myeloma
+977,0.861631392,12.25843321,https://clinicaltrials.gov/study/NCT01976338,NCT01976338,Macular Edema Secondary to Branch Retinal Vein Occlusion
+978,0.976509374,63.891827,https://clinicaltrials.gov/study/NCT04983238,NCT04983238,Metastatic Breast Cancer
+979,0.992016271,151.1744571,https://clinicaltrials.gov/study/NCT04693338,NCT04693338,Anatomic Stage 0 Breast Cancer AJCC v8|Anatomic Stage I Breast Cancer AJCC v8|Anatomic Stage II Breast Cancer AJCC v8|Anatomic Stage III Breast Cancer AJCC v8
+980,0.998750601,175.4931627,https://clinicaltrials.gov/study/NCT04857138,NCT04857138,Solid Tumors
+981,0.933103088,27.56841133,https://clinicaltrials.gov/study/NCT03679338,NCT03679338,Nonresectable Bile Duct Cancer
+982,0.993255159,152.248806,https://clinicaltrials.gov/study/NCT03549338,NCT03549338,Metastatic Colorectal Cancer|Colorectal Cancer Metastatic|Carcinoma
+983,0.999583221,192.0525007,https://clinicaltrials.gov/study/NCT01058538,NCT01058538,Advanced Solid Tumours
+984,0.998519513,176.9131508,https://clinicaltrials.gov/study/NCT03291938,NCT03291938,Advanced Malignant Solid Neoplasm|Anatomic Stage III Breast Cancer AJCC v8|Anatomic Stage IIIA Breast Cancer AJCC v8|Anatomic Stage IIIB Breast Cancer AJCC v8|Anatomic Stage IIIC Breast Cancer AJCC v8|Anatomic Stage IV Breast Cancer AJCC v8|Estrogen Receptor Negative|HER2/Neu Negative|Metastatic Malignant Solid Neoplasm|Pancreatic Ductal Adenocarcinoma|Progesterone Receptor Negative|Prognostic Stage III Breast Cancer AJCC v8|Prognostic Stage IIIA Breast Cancer AJCC v8|Prognostic Stage IIIB Breast Cancer AJCC v8|Prognostic Stage IIIC Breast Cancer AJCC v8|Prognostic Stage IV Breast Cancer AJCC v8|Recurrent Lymphoma|Refractory Lymphoma|Stage II Pancreatic Cancer AJCC v8|Stage IIA Pancreatic Cancer AJCC v8|Stage IIB Pancreatic Cancer AJCC v8|Stage III Pancreatic Cancer AJCC v8|Stage IV Pancreatic Cancer AJCC v8|Triple-Negative Breast Carcinoma|Unresectable Solid Neoplasm
+985,0.99187108,152.5690353,https://clinicaltrials.gov/study/NCT01546038,NCT01546038,Acute Myeloid Leukemia
+986,0.998742048,177.1406623,https://clinicaltrials.gov/study/NCT01940172,NCT01940172,Relapsed Epithelial Ovarian Cancer|Relapsed Primary Peritoneal Cancer|Relapsed Fallopian Tube Cancer
+987,0.997113241,160.63575,https://clinicaltrials.gov/study/NCT02127372,NCT02127372,Non-small Cell Lung Cancer
+988,0.98915626,151.1163707,https://clinicaltrials.gov/study/NCT02204072,NCT02204072,"Prostatic Neoplasms, Castration-Resistant"
+989,0.996722017,161.5873845,https://clinicaltrials.gov/study/NCT00428272,NCT00428272,Ewing's Sarcoma|Osteosarcoma|Neuroblastoma|Rhabdomyosarcoma
+990,0.996858594,156.8371944,https://clinicaltrials.gov/study/NCT02343172,NCT02343172,Liposarcoma
+991,0.988609211,150.4176216,https://clinicaltrials.gov/study/NCT01466972,NCT01466972,Breast Cancer|Breast Neoplasm
+992,0.986515231,150.0546565,https://clinicaltrials.gov/study/NCT00807872,NCT00807872,Primary Amyloidosis
+993,0.670332042,5.937058152,https://clinicaltrials.gov/study/NCT01459172,NCT01459172,Breast Cancer
+994,0.994449632,153.9249728,https://clinicaltrials.gov/study/NCT01305772,NCT01305772,Squamous Cell Carcinoma of the Head and Neck
+995,0.9885931,150.328565,https://clinicaltrials.gov/study/NCT02529072,NCT02529072,Malignant Glioma|Astrocytoma|Glioblastoma
+996,0.972269592,70.27987529,https://clinicaltrials.gov/study/NCT01680172,NCT01680172,Cancer|Depression|Anxiety
+997,0.866093539,14.54219852,https://clinicaltrials.gov/study/NCT03900572,NCT03900572,HPV Infections
+998,0.991269874,151.6368389,https://clinicaltrials.gov/study/NCT00198172,NCT00198172,Germ Cell Tumor
+999,0.971118847,47.74291769,https://clinicaltrials.gov/study/NCT00001862,NCT00001862,Juvenile Rheumatoid Arthritis|Uveitis
+1000,0.991268925,151.5067282,https://clinicaltrials.gov/study/NCT01482962,NCT01482962,Relapsed Peripheral T-Cell Lymphoma|Refractory Peripheral T-Cell Lymphoma
