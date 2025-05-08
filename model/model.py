@@ -4,6 +4,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from tqdm.notebook import tqdm
 from joblib import dump
+import dataset as ds
 
 chunksize = 3000
 from sklearn.neural_network import MLPClassifier
